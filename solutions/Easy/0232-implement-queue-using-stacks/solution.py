@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Stack, Design, Queue
 # Link     : https://leetcode.com/problems/implement-queue-using-stacks/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12196000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12436000 (beats 29%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
