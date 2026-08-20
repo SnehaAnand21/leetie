@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Design, Iterator
 # Link     : https://leetcode.com/problems/peeking-iterator/
-# Runtime  : 11 ms (beats 0%)
-# Memory   : 12456000 (beats 0%)
+# Runtime  : 15 ms (beats 76%)
+# Memory   : 12516000 (beats 45%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
