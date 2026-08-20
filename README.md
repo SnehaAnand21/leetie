@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 7 Solved
+## Progress Summary: 8 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -12,4 +12,5 @@
 | number-of-digit-one | Number of Digit One | Hard | python | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
 | palindrome-linked-list | Palindrome Linked List | Easy | python | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
 | power-of-two | Power of Two | Easy | python | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
+| sliding-window-maximum | Sliding Window Maximum | Hard | python | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
 | two-sum | Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
