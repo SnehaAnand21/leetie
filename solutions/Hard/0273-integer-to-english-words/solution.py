@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, String, Recursion
 # Link     : https://leetcode.com/problems/integer-to-english-words/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12276000 (beats 0%)
+# Runtime  : 1 ms (beats 41%)
+# Memory   : 12392000 (beats 62%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
