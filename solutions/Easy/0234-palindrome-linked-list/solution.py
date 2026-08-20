@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Linked List, Two Pointers, Stack, Recursion
 # Link     : https://leetcode.com/problems/palindrome-linked-list/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12460000 (beats 0%)
+# Runtime  : 132 ms (beats 45%)
+# Memory   : 66344000 (beats 67%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
