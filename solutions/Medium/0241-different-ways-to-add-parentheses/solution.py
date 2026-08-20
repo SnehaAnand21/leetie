@@ -4,7 +4,7 @@
 # Tags     : Math, String, Dynamic Programming, Recursion, Memoization, Bracket Sequences
 # Link     : https://leetcode.com/problems/different-ways-to-add-parentheses/
 # Runtime  : 0 ms (beats 100%)
-# Memory   : 12672000 (beats 11%)
+# Memory   : 12524000 (beats 11%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
