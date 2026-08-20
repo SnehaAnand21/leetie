@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Bit Manipulation
 # Link     : https://leetcode.com/problems/single-number-iii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12368000 (beats 0%)
+# Runtime  : 3 ms (beats 62%)
+# Memory   : 13032000 (beats 86%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
