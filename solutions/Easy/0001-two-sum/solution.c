@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table
 // Link     : https://leetcode.com/problems/two-sum/
-// Runtime  : 107 ms (beats 12%)
-// Memory   : 18380000 (beats 5%)
+// Runtime  : 116 ms (beats 5%)
+// Memory   : 18336000 (beats 5%)
 // Language : c
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
