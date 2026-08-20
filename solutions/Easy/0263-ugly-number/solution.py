@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math
 # Link     : https://leetcode.com/problems/ugly-number/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12316000 (beats 0%)
+# Runtime  : 2 ms (beats 19%)
+# Memory   : 12204000 (beats 90%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
