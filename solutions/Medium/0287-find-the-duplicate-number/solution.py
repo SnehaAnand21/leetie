@@ -3,32 +3,27 @@
 # Difficulty: Medium
 # Tags     : Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm
 # Link     : https://leetcode.com/problems/find-the-duplicate-number/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12644000 (beats 0%)
+# Runtime  : 29 ms (beats 81%)
+# Memory   : 20908000 (beats 44%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
 # ──────────────────────────────────────────────────
 
-class Solution(object):
+class Solution:
     def findDuplicate(self, nums):
-        """:type nums: List[int]
-        :rtype: int
-        """
-        # Phase 1: Find the intersection point of the two runners in the cycle
-        slow = nums[0]
-        fast = nums[0]
+        tortoise = nums[0]
+        hare = nums[0]
         
         while True:
-            slow = nums[slow]
-            fast = nums[nums[fast]]
-            if slow == fast:
+            tortoise = nums[tortoise]
+            hare = nums[nums[hare]]
+            if tortoise == hare:
                 break
                 
-        # Phase 2: Find the "entrance" to the cycle (the duplicate number)
-        slow = nums[0]
-        while slow != fast:
-            slow = nums[slow]
-            fast = nums[fast]
+        tortoise = nums[0]
+        while tortoise != hare:
+            tortoise = nums[tortoise]
+            hare = nums[hare]
             
-        return slow
+        return hare
