@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 34 Solved
+## Progress Summary: 35 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | add-digits | Add Digits | Easy | python | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
+| additive-number | Additive Number | Medium | python | [Problem](https://leetcode.com/problems/additive-number/) | [Solution](./solutions/Medium/0306-additive-number/solution.py) |
 | binary-tree-paths | Binary Tree Paths | Easy | python | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
 | bulls-and-cows | Bulls and Cows | Medium | python | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.py) |
 | delete-node-in-a-linked-list | Delete Node in a Linked List | Medium | python | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
