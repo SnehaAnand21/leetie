@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 30 Solved
+## Progress Summary: 31 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | add-digits | Add Digits | Easy | python | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
 | binary-tree-paths | Binary Tree Paths | Easy | python | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
+| bulls-and-cows | Bulls and Cows | Medium | python | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.py) |
 | delete-node-in-a-linked-list | Delete Node in a Linked List | Medium | python | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | different-ways-to-add-parentheses | Different Ways to Add Parentheses | Medium | python | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
 | expression-add-operators | Expression Add Operators | Hard | python | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
