@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap
 # Link     : https://leetcode.com/problems/count-of-range-sum/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19376000 (beats 0%)
+# Runtime  : 1161 ms (beats 68%)
+# Memory   : 34156000 (beats 66%)
 # Language : python3
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
