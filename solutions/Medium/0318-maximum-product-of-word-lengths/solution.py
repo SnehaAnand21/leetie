@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, String, Bit Manipulation
 # Link     : https://leetcode.com/problems/maximum-product-of-word-lengths/
-# Runtime  : 329 ms (beats 41%)
-# Memory   : 22620000 (beats 9%)
+# Runtime  : 316 ms (beats 43%)
+# Memory   : 22412000 (beats 29%)
 # Language : python3
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
