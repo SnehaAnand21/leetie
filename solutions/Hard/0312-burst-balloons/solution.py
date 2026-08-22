@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming
 # Link     : https://leetcode.com/problems/burst-balloons/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19280000 (beats 0%)
+# Runtime  : 1506 ms (beats 99%)
+# Memory   : 22192000 (beats 78%)
 # Language : python3
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
