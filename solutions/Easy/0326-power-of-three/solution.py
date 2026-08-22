@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math, Recursion
 # Link     : https://leetcode.com/problems/power-of-three/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19260000 (beats 0%)
+# Runtime  : 14 ms (beats 27%)
+# Memory   : 19340000 (beats 25%)
 # Language : python3
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
