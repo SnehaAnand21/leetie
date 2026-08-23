@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Linked List, Depth-First Search, Doubly-Linked List
 // Link     : https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42552000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43660000 (beats 19%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
