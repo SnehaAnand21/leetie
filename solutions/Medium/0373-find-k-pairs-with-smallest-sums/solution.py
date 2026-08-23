@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Heap (Priority Queue)
 # Link     : https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12488000 (beats 0%)
+# Runtime  : 206 ms (beats 18%)
+# Memory   : 27828000 (beats 35%)
 # Language : python
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
