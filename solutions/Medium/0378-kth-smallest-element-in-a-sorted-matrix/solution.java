@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Sorting, Heap (Priority Queue), Matrix
 // Link     : https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42300000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 52172000 (beats 12%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
