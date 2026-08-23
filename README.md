@@ -21,6 +21,7 @@
 | find-k-pairs-with-smallest-sums | Find K Pairs with Smallest Sums | Medium | python | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.py) |
 | find-the-difference | Find the Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
 | first-unique-character-in-a-string | First Unique Character in a String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
+| fizz-buzz | Fizz Buzz | Easy | java | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.java) |
 | flatten-nested-list-iterator | Flatten Nested List Iterator | Medium | python | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.py) |
 | frog-jump | Frog Jump | Hard | java | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.java) |
 | guess-number-higher-or-lower-ii | Guess Number Higher or Lower II | Medium | python | [Problem](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Solution](./solutions/Medium/0375-guess-number-higher-or-lower-ii/solution.py) |
@@ -39,7 +40,6 @@
 | longest-palindrome | Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
 | longest-substring-with-at-least-k-repeating-characters | Longest Substring with At Least K Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.java) |
 | max-sum-of-rectangle-no-larger-than-k | Max Sum of Rectangle No Larger Than K | Hard | python3 | [Problem](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Solution](./solutions/Hard/0363-max-sum-of-rectangle-no-larger-than-k/solution.py) |
-| maximum-product-of-word-lengths | Maximum Product of Word Lengths | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](./solutions/Medium/0318-maximum-product-of-word-lengths/solution.py) |
 | mini-parser | Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
 | nth-digit | Nth Digit | Medium | java | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.java) |
 | palindrome-pairs | Palindrome Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/palindrome-pairs/) | [Solution](./solutions/Hard/0336-palindrome-pairs/solution.py) |
