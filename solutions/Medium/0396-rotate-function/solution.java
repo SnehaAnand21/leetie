@@ -4,7 +4,7 @@
 // Tags     : Array, Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/rotate-function/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 42664000 (beats 0%)
+// Memory   : 42544000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
