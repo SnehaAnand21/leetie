@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 59 Solved
+## Progress Summary: 60 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -57,6 +57,7 @@
 | single-number-iii | Single Number III | Medium | python | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
 | sliding-window-maximum | Sliding Window Maximum | Hard | python | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
 | super-ugly-number | Super Ugly Number | Medium | python3 | [Problem](https://leetcode.com/problems/super-ugly-number/) | [Solution](./solutions/Medium/0313-super-ugly-number/solution.py) |
+| top-k-frequent-elements | Top K Frequent Elements | Medium | python | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/Medium/0347-top-k-frequent-elements/solution.py) |
 | trips-and-users | Trips and Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
 | two-sum | Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
 | ugly-number | Ugly Number | Easy | python | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.py) |
