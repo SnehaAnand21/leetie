@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Stack, Depth-First Search
 // Link     : https://leetcode.com/problems/longest-absolute-file-path/
-// Runtime  : 0 ms (beats 100%)
-// Memory   : 42508000 (beats 91%)
+// Runtime  : 1 ms (beats 69%)
+// Memory   : 42900000 (beats 47%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
