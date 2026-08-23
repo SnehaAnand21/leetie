@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, String, Simulation
 // Link     : https://leetcode.com/problems/fizz-buzz/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42484000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 46676000 (beats 84%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
