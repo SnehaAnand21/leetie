@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math, Bit Manipulation, Recursion
 # Link     : https://leetcode.com/problems/power-of-four/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19136000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19256000 (beats 59%)
 # Language : python3
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
