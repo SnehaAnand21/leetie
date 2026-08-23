@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Depth-First Search, Trie
 // Link     : https://leetcode.com/problems/lexicographical-numbers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42364000 (beats 0%)
+// Runtime  : 2 ms (beats 87%)
+// Memory   : 50248000 (beats 36%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
