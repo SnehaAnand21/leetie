@@ -13,7 +13,6 @@
 | convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | python3 | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.py) |
 | count-of-range-sum | Count of Range Sum | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-range-sum/) | [Solution](./solutions/Hard/0327-count-of-range-sum/solution.py) |
-| count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
 | create-maximum-number | Create Maximum Number | Hard | python3 | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.py) |
 | data-stream-as-disjoint-intervals | Data Stream as Disjoint Intervals | Hard | python3 | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.py) |
 | delete-duplicate-emails | Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
@@ -47,6 +46,7 @@
 | perfect-rectangle | Perfect Rectangle | Hard | java | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.java) |
 | power-of-four | Power of Four | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.py) |
 | power-of-three | Power of Three | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.py) |
+| queue-reconstruction-by-height | Queue Reconstruction by Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
 | random-pick-index | Random Pick Index | Medium | java | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.java) |
 | ransom-note | Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
 | reconstruct-itinerary | Reconstruct Itinerary | Hard | python3 | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.py) |
