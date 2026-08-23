@@ -8,9 +8,9 @@
 |------|---------|-----------|----------|--------------|---------------|
 | binary-watch | Binary Watch | Easy | java | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.java) |
 | bulb-switcher | Bulb Switcher | Medium | python3 | [Problem](https://leetcode.com/problems/bulb-switcher/) | [Solution](./solutions/Medium/0319-bulb-switcher/solution.py) |
-| burst-balloons | Burst Balloons | Hard | python3 | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.py) |
 | coin-change | Coin Change | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.py) |
 | combination-sum-iv | Combination Sum IV | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./solutions/Medium/0377-combination-sum-iv/solution.java) |
+| convert-a-number-to-hexadecimal | Convert a Number to Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | count-numbers-with-unique-digits | Count Numbers with Unique Digits | Medium | python3 | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.py) |
 | count-of-range-sum | Count of Range Sum | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-range-sum/) | [Solution](./solutions/Hard/0327-count-of-range-sum/solution.py) |
 | count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
