@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Stack, Greedy, Monotonic Stack
 // Link     : https://leetcode.com/problems/remove-k-digits/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42400000 (beats 0%)
+// Runtime  : 23 ms (beats 52%)
+// Memory   : 48068000 (beats 23%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
