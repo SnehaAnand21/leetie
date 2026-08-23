@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Bit Manipulation
 // Link     : https://leetcode.com/problems/sum-of-two-integers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41696000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42068000 (beats 52%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
