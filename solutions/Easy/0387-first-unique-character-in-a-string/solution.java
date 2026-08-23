@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String, Queue, Counting
 // Link     : https://leetcode.com/problems/first-unique-character-in-a-string/
-// Runtime  : 25 ms (beats 49%)
-// Memory   : 47156000 (beats 24%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42604000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
