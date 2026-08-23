@@ -6,6 +6,7 @@
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| add-strings | Add Strings | Easy | java | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.java) |
 | arithmetic-slices | Arithmetic Slices | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.java) |
 | binary-watch | Binary Watch | Easy | java | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.java) |
 | combination-sum-iv | Combination Sum IV | Medium | java | [Problem](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./solutions/Medium/0377-combination-sum-iv/solution.java) |
@@ -66,5 +67,4 @@
 | utf-8-validation | UTF-8 Validation | Medium | java | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.java) |
 | valid-perfect-square | Valid Perfect Square | Easy | python3 | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.py) |
 | verify-preorder-serialization-of-a-binary-tree | Verify Preorder Serialization of a Binary Tree | Medium | python3 | [Problem](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Solution](./solutions/Medium/0331-verify-preorder-serialization-of-a-binary-tree/solution.py) |
-| wiggle-sort-ii | Wiggle Sort II | Medium | python3 | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.py) |
 | wiggle-subsequence | Wiggle Subsequence | Medium | java | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.java) |
