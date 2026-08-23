@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Sliding Window
 // Link     : https://leetcode.com/problems/longest-repeating-character-replacement/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42684000 (beats 0%)
+// Runtime  : 7 ms (beats 89%)
+// Memory   : 46328000 (beats 38%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
