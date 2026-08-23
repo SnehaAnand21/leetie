@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Sorting
 // Link     : https://leetcode.com/problems/third-maximum-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42176000 (beats 0%)
+// Runtime  : 1 ms (beats 99%)
+// Memory   : 44476000 (beats 95%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
