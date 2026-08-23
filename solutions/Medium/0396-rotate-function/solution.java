@@ -4,7 +4,7 @@
 // Tags     : Array, Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/rotate-function/
 // Runtime  : 0 ms (beats 0%)
-// Memory   : 42484000 (beats 0%)
+// Memory   : 42664000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
@@ -12,32 +12,25 @@
 
 class Solution {
     public int maxRotateFunction(int[] nums) {
+        int n = nums.length;
 
-        int sum = 0;
-        int maxVal = 0;
+        
+        int total = 0;
+        int fn = 0;
 
-        int prevVal = 0;
-
-        for(int i = 0; i < nums.length; i++) {
-            
-            sum += nums[i];
-            prevVal += i * nums[i];
-
+        for(int i = 0; i< n;i++){
+            total += nums[i];
+            fn += i * nums[i];
         }
 
-        maxVal = prevVal;
+        int max_val = fn;
 
-        int k = nums.length - 1;
-
-        for(int i = 1; i < nums.length; i++) {
-            int currVal = sum - nums.length * nums[k] + prevVal;
-            prevVal = currVal;
-
-            maxVal = Math.max(maxVal, currVal);
-            k--;
+        
+        for(int i = 1; i< n ;i++){
+            fn = fn + total -(n*nums[n-i]);
+            max_val = Math.max(max_val, fn);
         }
-
-        return maxVal;
-
+        return max_val;
+        
     }
 }
