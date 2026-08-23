@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 62 Solved
+## Progress Summary: 61 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -49,7 +49,6 @@
 | power-of-three | Power of Three | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.py) |
 | random-pick-index | Random Pick Index | Medium | java | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.java) |
 | range-sum-query-2d-immutable | Range Sum Query 2D - Immutable | Medium | python | [Problem](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](./solutions/Medium/0304-range-sum-query-2d-immutable/solution.py) |
-| range-sum-query-immutable | Range Sum Query - Immutable | Easy | python | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.py) |
 | range-sum-query-mutable | Range Sum Query - Mutable | Medium | python | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.py) |
 | ransom-note | Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
 | reconstruct-itinerary | Reconstruct Itinerary | Hard | python3 | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.py) |
