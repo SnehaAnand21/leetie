@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Greedy
 // Link     : https://leetcode.com/problems/wiggle-subsequence/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42508000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42636000 (beats 94%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
