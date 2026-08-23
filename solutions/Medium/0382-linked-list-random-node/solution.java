@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Linked List, Math, Reservoir Sampling, Randomized
 // Link     : https://leetcode.com/problems/linked-list-random-node/
-// Runtime  : 12 ms (beats 59%)
-// Memory   : 48344000 (beats 52%)
+// Runtime  : 16 ms (beats 6%)
+// Memory   : 48444000 (beats 36%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
