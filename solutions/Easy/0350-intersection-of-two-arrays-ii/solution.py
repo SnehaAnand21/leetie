@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table, Two Pointers, Binary Search, Sorting
 # Link     : https://leetcode.com/problems/intersection-of-two-arrays-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19392000 (beats 0%)
+# Runtime  : 4 ms (beats 28%)
+# Memory   : 19152000 (beats 98%)
 # Language : python3
 # Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 # Synced by: leetie
