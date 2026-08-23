@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Dynamic Programming, Greedy, Bit Manipulation, Memoization
 // Link     : https://leetcode.com/problems/integer-replacement/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42340000 (beats 0%)
+// Runtime  : 7 ms (beats 11%)
+// Memory   : 42212000 (beats 25%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
