@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Breadth-First Search
 // Link     : https://leetcode.com/problems/n-ary-tree-level-order-traversal/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42800000 (beats 0%)
+// Runtime  : 3 ms (beats 93%)
+// Memory   : 47048000 (beats 6%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
