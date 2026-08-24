@@ -6,6 +6,7 @@
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| 4sum-ii | 4Sum II | Medium | java | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.java) |
 | add-strings | Add Strings | Easy | java | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.java) |
 | add-two-numbers-ii | Add Two Numbers II | Medium | java | [Problem](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution](./solutions/Medium/0445-add-two-numbers-ii/solution.java) |
 | all-oone-data-structure | All O`one Data Structure | Hard | java | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.java) |
@@ -22,7 +23,6 @@
 | find-all-anagrams-in-a-string | Find All Anagrams in a String | Medium | java | [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./solutions/Medium/0438-find-all-anagrams-in-a-string/solution.java) |
 | find-all-duplicates-in-an-array | Find All Duplicates in an Array | Medium | java | [Problem](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution](./solutions/Medium/0442-find-all-duplicates-in-an-array/solution.java) |
 | find-all-numbers-disappeared-in-an-array | Find All Numbers Disappeared in an Array | Easy | java | [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](./solutions/Easy/0448-find-all-numbers-disappeared-in-an-array/solution.java) |
-| find-k-pairs-with-smallest-sums | Find K Pairs with Smallest Sums | Medium | python | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.py) |
 | find-right-interval | Find Right Interval | Medium | java | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.java) |
 | find-the-difference | Find the Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
 | first-unique-character-in-a-string | First Unique Character in a String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
