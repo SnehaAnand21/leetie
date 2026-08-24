@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Two Pointers, Greedy, Sorting, Quicksort
 // Link     : https://leetcode.com/problems/assign-cookies/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42636000 (beats 0%)
+// Runtime  : 12 ms (beats 99%)
+// Memory   : 50524000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
