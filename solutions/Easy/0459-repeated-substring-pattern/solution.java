@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm
 // Link     : https://leetcode.com/problems/repeated-substring-pattern/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42732000 (beats 0%)
+// Runtime  : 33 ms (beats 59%)
+// Memory   : 47108000 (beats 10%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
