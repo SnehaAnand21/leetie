@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Trie
 // Link     : https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41716000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 41984000 (beats 76%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
