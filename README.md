@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 61 Solved
+## Progress Summary: 60 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -41,7 +41,6 @@
 | longest-palindrome | Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
 | longest-repeating-character-replacement | Longest Repeating Character Replacement | Medium | java | [Problem](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./solutions/Medium/0424-longest-repeating-character-replacement/solution.java) |
 | longest-substring-with-at-least-k-repeating-characters | Longest Substring with At Least K Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.java) |
-| max-sum-of-rectangle-no-larger-than-k | Max Sum of Rectangle No Larger Than K | Hard | python3 | [Problem](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Solution](./solutions/Hard/0363-max-sum-of-rectangle-no-larger-than-k/solution.py) |
 | mini-parser | Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
 | minimum-genetic-mutation | Minimum Genetic Mutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.java) |
 | n-ary-tree-level-order-traversal | N-ary Tree Level Order Traversal | Medium | java | [Problem](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Solution](./solutions/Medium/0429-n-ary-tree-level-order-traversal/solution.java) |
