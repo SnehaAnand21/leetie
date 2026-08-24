@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, Linked List, Design, Doubly-Linked List
 // Link     : https://leetcode.com/problems/lfu-cache/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42648000 (beats 0%)
+// Runtime  : 61 ms (beats 45%)
+// Memory   : 135204000 (beats 76%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
