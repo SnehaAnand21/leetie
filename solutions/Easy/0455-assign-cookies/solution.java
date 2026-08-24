@@ -4,7 +4,7 @@
 // Tags     : Array, Two Pointers, Greedy, Sorting, Quicksort
 // Link     : https://leetcode.com/problems/assign-cookies/
 // Runtime  : 12 ms (beats 99%)
-// Memory   : 50524000 (beats 100%)
+// Memory   : 50664000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
