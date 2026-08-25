@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Design, Hash Function
 // Link     : https://leetcode.com/problems/encode-and-decode-tinyurl/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42564000 (beats 0%)
+// Runtime  : 4 ms (beats 35%)
+// Memory   : 44356000 (beats 48%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
