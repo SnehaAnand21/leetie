@@ -2,37 +2,38 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 143 Solved
+## Progress Summary: 144 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
+| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
+| different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
+| add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
 | complex-number-multiplication | Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
 | convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
 | delete-duplicate-emails | 196. Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
 | encode-and-decode-tinyurl | Encode and Decode TinyURL | Medium | java | [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](./solutions/Medium/0535-encode-and-decode-tinyurl/solution.java) |
+| implement-queue-using-stacks | 232. Implement Queue Using Stacks | Easy | python3 | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./solutions/Easy/0232-implement-queue-using-stacks/solution.py) |
+| binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
+| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
+| ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
+| h-index | 274. H Index | Medium | python3 | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.py) |
+| h-index-ii | 275. H Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
+| first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | minimum-absolute-difference-in-bst | Minimum Absolute Difference in BST | Easy | python | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
+| minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
 | two-sum | 1. Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
 | power-of-two | 231. Power Of Two | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
-| implement-queue-using-stacks | 232. Implement Queue Using Stacks | Easy | python3 | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./solutions/Easy/0232-implement-queue-using-stacks/solution.py) |
-| number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
 | palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
 | lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
 | delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
-| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
-| different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
 | valid-anagram | 242. Valid Anagram | Easy | python3 | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.py) |
-| binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
-| add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
-| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
 | trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
 | ugly-number | 263. Ugly Number | Easy | python3 | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.py) |
-| ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
 | missing-number | 268. Missing Number | Easy | python3 | [Problem](https://leetcode.com/problems/missing-number/) | [Solution](./solutions/Easy/0268-missing-number/solution.py) |
 | integer-to-english-words | 273. Integer To English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
-| h-index | 274. H Index | Medium | python3 | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.py) |
-| h-index-ii | 275. H Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
-| first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | perfect-squares | 279. Perfect Squares | Medium | python3 | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.py) |
 | expression-add-operators | 282. Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
 | peeking-iterator | 284. Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
