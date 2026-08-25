@@ -2,15 +2,16 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 142 Solved
+## Progress Summary: 143 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | complex-number-multiplication | Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
+| convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
+| delete-duplicate-emails | 196. Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
 | encode-and-decode-tinyurl | Encode and Decode TinyURL | Medium | java | [Problem](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution](./solutions/Medium/0535-encode-and-decode-tinyurl/solution.java) |
 | minimum-absolute-difference-in-bst | Minimum Absolute Difference in BST | Easy | python | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
 | two-sum | 1. Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
-| delete-duplicate-emails | 196. Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
 | power-of-two | 231. Power Of Two | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
 | implement-queue-using-stacks | 232. Implement Queue Using Stacks | Easy | python3 | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./solutions/Easy/0232-implement-queue-using-stacks/solution.py) |
 | number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
