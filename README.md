@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 178 Solved
+## Progress Summary: 179 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -35,10 +35,10 @@
 | maximum-depth-of-n-ary-tree | Maximum Depth of N-ary Tree | Easy | java | [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution](./solutions/Easy/0559-maximum-depth-of-n-ary-tree/solution.java) |
 | minimum-absolute-difference-in-bst | Minimum Absolute Difference in BST | Easy | python | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
+| n-ary-tree-preorder-traversal | N-ary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.java) |
 | next-greater-element-iii | Next Greater Element III | Medium | python | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.py) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
-| palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
 | permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
 | power-of-two | 231. Power Of Two | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
@@ -56,6 +56,7 @@
 | subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
 | two-sum | 1. Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
 | number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
+| palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
 | sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
 | valid-anagram | 242. Valid Anagram | Easy | python3 | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.py) |
 | binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
