@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 156 Solved
+## Progress Summary: 157 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,6 +14,7 @@
 | different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
 | binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
 | add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
+| brick-wall | Brick Wall | Medium | python | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | complex-number-multiplication | Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
 | convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
 | delete-duplicate-emails | 196. Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
@@ -57,9 +58,13 @@
 | power-of-four | 342. Power Of Four | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.py) |
 | integer-break | 343. Integer Break | Medium | python3 | [Problem](https://leetcode.com/problems/integer-break/) | [Solution](./solutions/Medium/0343-integer-break/solution.py) |
 | top-k-frequent-elements | 347. Top K Frequent Elements | Medium | python3 | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/Medium/0347-top-k-frequent-elements/solution.py) |
+| intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.py) |
+| intersection-of-two-arrays-ii | 350. Intersection Of Two Arrays Ii | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.py) |
 | design-twitter | 355. Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
 | count-numbers-with-unique-digits | 357. Count Numbers With Unique Digits | Medium | python3 | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.py) |
 | largest-divisible-subset | 368. Largest Divisible Subset | Medium | python3 | [Problem](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](./solutions/Medium/0368-largest-divisible-subset/solution.py) |
+| remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
+| reverse-string | 344. Reverse String | Easy | java | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](./solutions/Easy/0344-reverse-string/solution.java) |
 | sum-of-two-integers | 371. Sum Of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
 | super-pow | 372. Super Pow | Medium | python3 | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.py) |
 | find-k-pairs-with-smallest-sums | 373. Find K Pairs With Smallest Sums | Medium | python3 | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.py) |
@@ -70,18 +75,13 @@
 | insert-delete-getrandom-o1 | 380. Insert Delete Getrandom O1 | Medium | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.java) |
 | linked-list-random-node | 382. Linked List Random Node | Medium | java | [Problem](https://leetcode.com/problems/linked-list-random-node/) | [Solution](./solutions/Medium/0382-linked-list-random-node/solution.java) |
 | ransom-note | 383. Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
+| reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
+| shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | java | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
 | shuffle-an-array | 384. Shuffle An Array | Medium | java | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.java) |
 | mini-parser | 385. Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
 | lexicographical-numbers | 386. Lexicographical Numbers | Medium | java | [Problem](https://leetcode.com/problems/lexicographical-numbers/) | [Solution](./solutions/Medium/0386-lexicographical-numbers/solution.java) |
-| first-unique-character-in-a-string | 387. First Unique Character In A String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
 | longest-absolute-file-path | 388. Longest Absolute File Path | Medium | java | [Problem](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./solutions/Medium/0388-longest-absolute-file-path/solution.java) |
 | elimination-game | 390. Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
-| remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
-| reverse-string | 344. Reverse String | Easy | java | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](./solutions/Easy/0344-reverse-string/solution.java) |
-| intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.py) |
-| intersection-of-two-arrays-ii | 350. Intersection Of Two Arrays Ii | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.py) |
-| reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
-| shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | java | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
 | single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
 | student-attendance-record-i | Student Attendance Record I | Easy | cpp | [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution](./solutions/Easy/0551-student-attendance-record-i/solution.cpp) |
 | student-attendance-record-ii | Student Attendance Record II | Hard | java | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.java) |
@@ -109,6 +109,7 @@
 | max-sum-of-rectangle-no-larger-than-k | 363. Max Sum Of Rectangle No Larger Than K | Hard | python3 | [Problem](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Solution](./solutions/Hard/0363-max-sum-of-rectangle-no-larger-than-k/solution.py) |
 | valid-perfect-square | 367. Valid Perfect Square | Easy | python3 | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.py) |
 | insert-delete-getrandom-o1-duplicates-allowed | 381. Insert Delete Getrandom O1 Duplicates Allowed | Hard | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.java) |
+| first-unique-character-in-a-string | 387. First Unique Character In A String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
 | find-the-difference | 389. Find The Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
 | perfect-rectangle | 391. Perfect Rectangle | Hard | java | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.java) |
 | utf-8-validation | 393. Utf 8 Validation | Medium | java | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.java) |
