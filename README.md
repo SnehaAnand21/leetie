@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 173 Solved
+## Progress Summary: 174 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | binary-tree-tilt | Binary Tree Tilt | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.java) |
 | brick-wall | Brick Wall | Medium | python | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | complex-number-multiplication | Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
+| construct-the-rectangle | Construct the Rectangle | Easy | java | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.java) |
 | convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
 | delete-duplicate-emails | 196. Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
 | diameter-of-binary-tree | Diameter of Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./solutions/Easy/0543-diameter-of-binary-tree/solution.java) |
@@ -27,8 +28,6 @@
 | lexicographically-smallest-palindromic-permutation-greater-than-target | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | java | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.java) |
 | lexicographically-smallest-permutation-greater-than-target | Lexicographically Smallest Permutation Greater Than Target | Medium | java | [Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Solution](./solutions/Medium/3720-lexicographically-smallest-permutation-greater-than-target/solution.java) |
 | logical-or-of-two-binary-grids-represented-as-quad-trees | Logical OR of Two Binary Grids Represented as Quad-Trees | Medium | java | [Problem](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Solution](./solutions/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/solution.java) |
-| lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
-| delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | managers-with-at-least-5-direct-reports | Managers with at Least 5 Direct Reports | Medium | mysql | [Problem](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Solution](./solutions/Medium/0570-managers-with-at-least-5-direct-reports/solution.sql) |
 | maximum-depth-of-n-ary-tree | Maximum Depth of N-ary Tree | Easy | java | [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution](./solutions/Easy/0559-maximum-depth-of-n-ary-tree/solution.java) |
 | minimum-absolute-difference-in-bst | Minimum Absolute Difference in BST | Easy | python | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
@@ -39,6 +38,8 @@
 | permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
 | power-of-two | 231. Power Of Two | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
 | palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
+| lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
+| delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
 | reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
