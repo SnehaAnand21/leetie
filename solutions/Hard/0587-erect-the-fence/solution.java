@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Math, Geometry, Convex Hull, Polygons
 // Link     : https://leetcode.com/problems/erect-the-fence/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 43044000 (beats 0%)
+// Runtime  : 25 ms (beats 19%)
+// Memory   : 47684000 (beats 60%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
