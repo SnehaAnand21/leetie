@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/optimal-division/
-// Runtime  : 10 ms (beats 13%)
-// Memory   : 49432000 (beats 7%)
+// Runtime  : 11 ms (beats 8%)
+// Memory   : 49328000 (beats 10%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
