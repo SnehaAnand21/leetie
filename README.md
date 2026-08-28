@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 185 Solved
+## Progress Summary: 186 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -43,6 +43,7 @@
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
 | permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
+| range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
 | reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
