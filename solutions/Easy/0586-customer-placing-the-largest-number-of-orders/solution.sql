@@ -3,7 +3,7 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/
--- Runtime  : 510 ms (beats 53%)
+-- Runtime  : 607 ms (beats 19%)
 -- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 SnehaAnand21. All rights reserved.
