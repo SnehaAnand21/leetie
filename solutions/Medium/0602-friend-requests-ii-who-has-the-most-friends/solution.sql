@@ -3,8 +3,8 @@
 -- Difficulty: Medium
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/
--- Runtime  : 68 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 370 ms (beats 31%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 -- Synced by: leetie
