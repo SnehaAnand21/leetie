@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/big-countries/
--- Runtime  : 323 ms (beats 45%)
--- Memory   : 0B (beats 100%)
+-- Runtime  : 99 ms (beats 0%)
+-- Memory   : 0B (beats 0%)
 -- Language : mysql
 -- Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 -- Synced by: leetie
