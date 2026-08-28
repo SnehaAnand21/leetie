@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String
 // Link     : https://leetcode.com/problems/find-duplicate-file-in-system/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 43060000 (beats 0%)
+// Runtime  : 14 ms (beats 100%)
+// Memory   : 55012000 (beats 96%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
