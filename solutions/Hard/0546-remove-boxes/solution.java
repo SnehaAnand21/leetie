@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Memoization
 // Link     : https://leetcode.com/problems/remove-boxes/
-// Runtime  : 22 ms (beats 93%)
-// Memory   : 71696000 (beats 55%)
+// Runtime  : 20 ms (beats 97%)
+// Memory   : 71656000 (beats 55%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
