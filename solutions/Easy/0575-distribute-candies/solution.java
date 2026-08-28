@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table
 // Link     : https://leetcode.com/problems/distribute-candies/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42316000 (beats 0%)
+// Runtime  : 30 ms (beats 92%)
+// Memory   : 48496000 (beats 69%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
