@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Stack, Tree, Depth-First Search
 // Link     : https://leetcode.com/problems/n-ary-tree-postorder-traversal/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42668000 (beats 0%)
+// Runtime  : 2 ms (beats 18%)
+// Memory   : 47412000 (beats 5%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
