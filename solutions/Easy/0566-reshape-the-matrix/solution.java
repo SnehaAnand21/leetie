@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Matrix, Simulation
 // Link     : https://leetcode.com/problems/reshape-the-matrix/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42664000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 47344000 (beats 58%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
