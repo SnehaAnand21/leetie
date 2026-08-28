@@ -4,7 +4,7 @@
 // Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/merge-two-binary-trees/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 46828000 (beats 76%)
+// Memory   : 47204000 (beats 17%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
