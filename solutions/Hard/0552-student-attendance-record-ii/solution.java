@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Dynamic Programming
 // Link     : https://leetcode.com/problems/student-attendance-record-ii/
-// Runtime  : 186 ms (beats 88%)
-// Memory   : 178692000 (beats 64%)
+// Runtime  : 203 ms (beats 84%)
+// Memory   : 179068000 (beats 62%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
