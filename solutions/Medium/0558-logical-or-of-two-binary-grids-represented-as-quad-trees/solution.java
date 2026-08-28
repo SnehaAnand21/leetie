@@ -4,7 +4,7 @@
 // Tags     : Divide and Conquer, Tree
 // Link     : https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 46924000 (beats 65%)
+// Memory   : 47188000 (beats 28%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
