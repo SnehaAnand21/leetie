@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Tree, Depth-First Search, Breadth-First Search
 // Link     : https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42284000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 45244000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
