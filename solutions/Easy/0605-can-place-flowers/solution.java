@@ -4,7 +4,7 @@
 // Tags     : Array, Greedy
 // Link     : https://leetcode.com/problems/can-place-flowers/
 // Runtime  : 1 ms (beats 99%)
-// Memory   : 47800000 (beats 56%)
+// Memory   : 47760000 (beats 56%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
