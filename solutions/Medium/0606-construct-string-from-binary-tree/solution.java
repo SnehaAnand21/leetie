@@ -4,7 +4,7 @@
 // Tags     : String, Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/construct-string-from-binary-tree/
 // Runtime  : 2 ms (beats 86%)
-// Memory   : 46228000 (beats 89%)
+// Memory   : 46340000 (beats 79%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
