@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/maximum-valid-split-positions-i/
-// Runtime  : 282 ms (beats 27%)
-// Memory   : 47096000 (beats 45%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42692000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
@@ -72,3 +72,9 @@ class Solution {
         return cnt;
     }
 }
+[10,30,15,10]
+[2,10,14]
+[2,4]
+2
+1
+0
