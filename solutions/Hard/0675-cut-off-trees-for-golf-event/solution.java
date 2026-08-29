@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Breadth-First Search, Heap (Priority Queue), Matrix
 // Link     : https://leetcode.com/problems/cut-off-trees-for-golf-event/
-// Runtime  : 448 ms (beats 36%)
-// Memory   : 47188000 (beats 80%)
+// Runtime  : 396 ms (beats 62%)
+// Memory   : 47588000 (beats 19%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
