@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Greedy, Sorting, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/course-schedule-iii/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42432000 (beats 0%)
+// Runtime  : 35 ms (beats 77%)
+// Memory   : 54868000 (beats 87%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
