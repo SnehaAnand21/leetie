@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/2-keys-keyboard/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41912000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42284000 (beats 51%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
