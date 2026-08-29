@@ -4,7 +4,7 @@
 // Tags     : Math, Bit Manipulation, Depth-First Search, Breadth-First Search
 // Link     : https://leetcode.com/problems/bulb-switcher-ii/
 // Runtime  : 2 ms (beats 7%)
-// Memory   : 42568000 (beats 5%)
+// Memory   : 42792000 (beats 5%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
