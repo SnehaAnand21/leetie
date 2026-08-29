@@ -4,7 +4,7 @@
 // Tags     : N/A
 // Link     : https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/
 // Runtime  : 1 ms (beats 95%)
-// Memory   : 43836000 (beats 97%)
+// Memory   : 44184000 (beats 51%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
@@ -24,3 +24,18 @@ class Solution {
         return 2;
     }
 }
+[8,1]
+[1,8]
+[4,2]
+[1,3]
+[1,1]
+[3,4]
+[8,1]
+[1,8]
+[4,2]
+[1,3]
+[1,1]
+[3,4]
+1
+2
+-1
