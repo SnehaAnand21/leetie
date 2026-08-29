@@ -4,7 +4,7 @@
 // Tags     : Math, Greedy
 // Link     : https://leetcode.com/problems/maximum-swap/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 42476000 (beats 15%)
+// Memory   : 42080000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
