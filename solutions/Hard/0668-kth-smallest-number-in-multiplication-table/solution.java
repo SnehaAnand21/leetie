@@ -4,7 +4,7 @@
 // Tags     : Math, Binary Search
 // Link     : https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 // Runtime  : 8 ms (beats 99%)
-// Memory   : 42348000 (beats 8%)
+// Memory   : 42288000 (beats 23%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
