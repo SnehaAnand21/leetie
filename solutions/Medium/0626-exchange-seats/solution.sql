@@ -3,8 +3,8 @@
 -- Difficulty: Medium
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/exchange-seats/
--- Runtime  : 77 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 325 ms (beats 96%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 -- Synced by: leetie
