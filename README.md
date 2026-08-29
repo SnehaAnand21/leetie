@@ -2,21 +2,21 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 239 Solved
+## Progress Summary: 240 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 01-matrix | 01 Matrix | Medium | java | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.java) |
 | 2-keys-keyboard | 2 Keys Keyboard | Medium | java | [Problem](https://leetcode.com/problems/2-keys-keyboard/) | [Solution](./solutions/Medium/0650-2-keys-keyboard/solution.java) |
-| add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
 | array-nesting | Array Nesting | Medium | java | [Problem](https://leetcode.com/problems/array-nesting/) | [Solution](./solutions/Medium/0565-array-nesting/solution.java) |
 | array-partition | Array Partition | Easy | java | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.java) |
+| binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
+| add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
+| add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
 | average-of-levels-in-binary-tree | Average of Levels in Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Solution](./solutions/Easy/0637-average-of-levels-in-binary-tree/solution.java) |
 | beautiful-arrangement-ii | Beautiful Arrangement II | Medium | java | [Problem](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Solution](./solutions/Medium/0667-beautiful-arrangement-ii/solution.java) |
 | big-countries | Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
 | biggest-single-number | Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
-| binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
-| add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
 | binary-tree-tilt | Binary Tree Tilt | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.java) |
 | brick-wall | Brick Wall | Medium | python | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
@@ -55,6 +55,7 @@
 | investments-in-2016 | Investments in 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
 | k-inverse-pairs-array | K Inverse Pairs Array | Hard | java | [Problem](https://leetcode.com/problems/k-inverse-pairs-array/) | [Solution](./solutions/Hard/0629-k-inverse-pairs-array/solution.java) |
 | kth-smallest-number-in-multiplication-table | Kth Smallest Number in Multiplication Table | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [Solution](./solutions/Hard/0668-kth-smallest-number-in-multiplication-table/solution.java) |
+| lexicographically-largest-string-after-pair-transformations | Lexicographically Largest String After Pair Transformations | Medium | java | [Problem](https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/) | [Solution](./solutions/Medium/4036-lexicographically-largest-string-after-pair-transformations/solution.java) |
 | lexicographically-smallest-palindromic-permutation-greater-than-target | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | java | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.java) |
 | lexicographically-smallest-permutation-greater-than-target | Lexicographically Smallest Permutation Greater Than Target | Medium | java | [Problem](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Solution](./solutions/Medium/3720-lexicographically-smallest-permutation-greater-than-target/solution.java) |
 | logical-or-of-two-binary-grids-represented-as-quad-trees | Logical OR of Two Binary Grids Represented as Quad-Trees | Medium | java | [Problem](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Solution](./solutions/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/solution.java) |
@@ -76,22 +77,22 @@
 | n-ary-tree-postorder-traversal | N-ary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0590-n-ary-tree-postorder-traversal/solution.java) |
 | n-ary-tree-preorder-traversal | N-ary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.java) |
 | next-greater-element-iii | Next Greater Element III | Medium | python | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.py) |
+| optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
+| out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
+| permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
+| power-of-two | 231. Power Of Two | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
+| palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
+| nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
 | non-decreasing-array | Non-decreasing Array | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-array/) | [Solution](./solutions/Medium/0665-non-decreasing-array/solution.java) |
 | non-negative-integers-without-consecutive-ones | Non-negative Integers without Consecutive Ones | Hard | java | [Problem](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution](./solutions/Hard/0600-non-negative-integers-without-consecutive-ones/solution.java) |
 | not-boring-movies | Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
-| optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
-| out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
-| palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
-| permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
-| power-of-two | 231. Power Of Two | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
 | number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
-| palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
-| nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
-| print-binary-tree | Print Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/print-binary-tree/) | [Solution](./solutions/Medium/0655-print-binary-tree/solution.java) |
-| range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
+| palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
 | range-sum-query-immutable | 303. Range Sum Query Immutable | Easy | python3 | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.py) |
 | power-of-three | 326. Power Of Three | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.py) |
 | power-of-four | 342. Power Of Four | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.py) |
+| print-binary-tree | Print Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/print-binary-tree/) | [Solution](./solutions/Medium/0655-print-binary-tree/solution.java) |
+| range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
 | replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
