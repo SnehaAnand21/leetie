@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 209 Solved
+## Progress Summary: 210 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -71,10 +71,48 @@
 | permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
 | power-of-two | 231. Power Of Two | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
 | palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
-| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
-| trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
-| ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
 | missing-number | 268. Missing Number | Easy | python3 | [Problem](https://leetcode.com/problems/missing-number/) | [Solution](./solutions/Easy/0268-missing-number/solution.py) |
+| nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
+| range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
+| range-sum-query-immutable | 303. Range Sum Query Immutable | Easy | python3 | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.py) |
+| power-of-three | 326. Power Of Three | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.py) |
+| power-of-four | 342. Power Of Four | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.py) |
+| intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.py) |
+| intersection-of-two-arrays-ii | 350. Intersection Of Two Arrays Ii | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.py) |
+| ransom-note | 383. Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
+| first-unique-character-in-a-string | 387. First Unique Character In A String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
+| find-the-difference | 389. Find The Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
+| binary-watch | 401. Binary Watch | Easy | java | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.java) |
+| convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
+| fizz-buzz | 412. Fizz Buzz | Easy | java | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.java) |
+| add-strings | 415. Add Strings | Easy | java | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.java) |
+| number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | java | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.java) |
+| arranging-coins | 441. Arranging Coins | Easy | java | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.java) |
+| assign-cookies | 455. Assign Cookies | Easy | java | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.java) |
+| remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
+| reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
+| reverse-string | 344. Reverse String | Easy | java | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](./solutions/Easy/0344-reverse-string/solution.java) |
+| longest-palindrome | 409. Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
+| reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
+| reverse-words-in-a-string-iii | Reverse Words in a String III | Easy | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.java) |
+| sales-person | Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
+| shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | java | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
+| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | java | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.java) |
+| single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
+| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
+| smallest-range-covering-elements-from-k-lists | Smallest Range Covering Elements from K Lists | Hard | java | [Problem](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Solution](./solutions/Hard/0632-smallest-range-covering-elements-from-k-lists/solution.java) |
+| student-attendance-record-i | Student Attendance Record I | Easy | cpp | [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution](./solutions/Easy/0551-student-attendance-record-i/solution.cpp) |
+| student-attendance-record-ii | Student Attendance Record II | Hard | java | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.java) |
+| subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
+| swap-sex-of-employees | Swap Sex of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
+| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
+| tree-node | Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
+| triangle-judgement | Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
+| two-sum | 1. Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
+| valid-anagram | 242. Valid Anagram | Easy | python3 | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.py) |
+| trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
+| ugly-number | 263. Ugly Number | Easy | python3 | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.py) |
+| ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
 | integer-to-english-words | 273. Integer To English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
 | h-index | 274. H Index | Medium | python3 | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.py) |
 | h-index-ii | 275. H Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
@@ -83,13 +121,10 @@
 | peeking-iterator | 284. Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
 | find-the-duplicate-number | 287. Find The Duplicate Number | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.py) |
 | game-of-life | 289. Game Of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
-| nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
 | find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
-| range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
 | serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | python3 | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.py) |
 | bulls-and-cows | 299. Bulls And Cows | Medium | python3 | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.py) |
 | remove-invalid-parentheses | 301. Remove Invalid Parentheses | Hard | python3 | [Problem](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](./solutions/Hard/0301-remove-invalid-parentheses/solution.py) |
-| range-sum-query-immutable | 303. Range Sum Query Immutable | Easy | python3 | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.py) |
 | range-sum-query-2d-immutable | 304. Range Sum Query 2d Immutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](./solutions/Medium/0304-range-sum-query-2d-immutable/solution.py) |
 | additive-number | 306. Additive Number | Medium | python3 | [Problem](https://leetcode.com/problems/additive-number/) | [Solution](./solutions/Medium/0306-additive-number/solution.py) |
 | range-sum-query-mutable | 307. Range Sum Query Mutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.py) |
@@ -103,7 +138,6 @@
 | create-maximum-number | 321. Create Maximum Number | Hard | python3 | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.py) |
 | coin-change | 322. Coin Change | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.py) |
 | wiggle-sort-ii | 324. Wiggle Sort Ii | Medium | python3 | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.py) |
-| power-of-three | 326. Power Of Three | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.py) |
 | count-of-range-sum | 327. Count Of Range Sum | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-range-sum/) | [Solution](./solutions/Hard/0327-count-of-range-sum/solution.py) |
 | longest-increasing-path-in-a-matrix | 329. Longest Increasing Path In A Matrix | Hard | python3 | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.py) |
 | patching-array | 330. Patching Array | Hard | python3 | [Problem](https://leetcode.com/problems/patching-array/) | [Solution](./solutions/Hard/0330-patching-array/solution.py) |
@@ -112,11 +146,8 @@
 | self-crossing | 335. Self Crossing | Hard | python3 | [Problem](https://leetcode.com/problems/self-crossing/) | [Solution](./solutions/Hard/0335-self-crossing/solution.py) |
 | palindrome-pairs | 336. Palindrome Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/palindrome-pairs/) | [Solution](./solutions/Hard/0336-palindrome-pairs/solution.py) |
 | flatten-nested-list-iterator | 341. Flatten Nested List Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.py) |
-| power-of-four | 342. Power Of Four | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.py) |
 | integer-break | 343. Integer Break | Medium | python3 | [Problem](https://leetcode.com/problems/integer-break/) | [Solution](./solutions/Medium/0343-integer-break/solution.py) |
 | top-k-frequent-elements | 347. Top K Frequent Elements | Medium | python3 | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/Medium/0347-top-k-frequent-elements/solution.py) |
-| intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.py) |
-| intersection-of-two-arrays-ii | 350. Intersection Of Two Arrays Ii | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.py) |
 | data-stream-as-disjoint-intervals | 352. Data Stream As Disjoint Intervals | Hard | python3 | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.py) |
 | design-twitter | 355. Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
 | count-numbers-with-unique-digits | 357. Count Numbers With Unique Digits | Medium | python3 | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.py) |
@@ -144,16 +175,12 @@
 | integer-replacement | 397. Integer Replacement | Medium | java | [Problem](https://leetcode.com/problems/integer-replacement/) | [Solution](./solutions/Medium/0397-integer-replacement/solution.java) |
 | random-pick-index | 398. Random Pick Index | Medium | java | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.java) |
 | nth-digit | 400. Nth Digit | Medium | java | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.java) |
-| binary-watch | 401. Binary Watch | Easy | java | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.java) |
 | remove-k-digits | 402. Remove K Digits | Medium | java | [Problem](https://leetcode.com/problems/remove-k-digits/) | [Solution](./solutions/Medium/0402-remove-k-digits/solution.java) |
 | frog-jump | 403. Frog Jump | Hard | java | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.java) |
-| convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
 | queue-reconstruction-by-height | 406. Queue Reconstruction By Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
 | trapping-rain-water-ii | 407. Trapping Rain Water Ii | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.java) |
-| longest-palindrome | 409. Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
 | split-array-largest-sum | 410. Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
 | arithmetic-slices | 413. Arithmetic Slices | Medium | java | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.java) |
-| add-strings | 415. Add Strings | Easy | java | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.java) |
 | partition-equal-subset-sum | 416. Partition Equal Subset Sum | Medium | java | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.java) |
 | pacific-atlantic-water-flow | 417. Pacific Atlantic Water Flow | Medium | java | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.java) |
 | battleships-in-a-board | 419. Battleships In A Board | Medium | java | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.java) |
@@ -165,30 +192,14 @@
 | flatten-a-multilevel-doubly-linked-list | 430. Flatten A Multilevel Doubly Linked List | Medium | java | [Problem](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](./solutions/Medium/0430-flatten-a-multilevel-doubly-linked-list/solution.java) |
 | all-oone-data-structure | 432. All Oone Data Structure | Hard | java | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.java) |
 | minimum-genetic-mutation | 433. Minimum Genetic Mutation | Medium | java | [Problem](https://leetcode.com/problems/minimum-genetic-mutation/) | [Solution](./solutions/Medium/0433-minimum-genetic-mutation/solution.java) |
-| number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | java | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.java) |
 | find-right-interval | 436. Find Right Interval | Medium | java | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.java) |
 | find-all-anagrams-in-a-string | 438. Find All Anagrams In A String | Medium | java | [Problem](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./solutions/Medium/0438-find-all-anagrams-in-a-string/solution.java) |
 | k-th-smallest-in-lexicographical-order | 440. K Th Smallest In Lexicographical Order | Hard | java | [Problem](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [Solution](./solutions/Hard/0440-k-th-smallest-in-lexicographical-order/solution.java) |
-| arranging-coins | 441. Arranging Coins | Easy | java | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.java) |
 | find-all-duplicates-in-an-array | 442. Find All Duplicates In An Array | Medium | java | [Problem](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution](./solutions/Medium/0442-find-all-duplicates-in-an-array/solution.java) |
 | add-two-numbers-ii | 445. Add Two Numbers Ii | Medium | java | [Problem](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution](./solutions/Medium/0445-add-two-numbers-ii/solution.java) |
 | arithmetic-slices-ii-subsequence | 446. Arithmetic Slices Ii Subsequence | Hard | java | [Problem](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Solution](./solutions/Hard/0446-arithmetic-slices-ii-subsequence/solution.java) |
 | number-of-boomerangs | 447. Number Of Boomerangs | Medium | java | [Problem](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](./solutions/Medium/0447-number-of-boomerangs/solution.java) |
-| find-all-numbers-disappeared-in-an-array | 448. Find All Numbers Disappeared In An Array | Easy | java | [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](./solutions/Easy/0448-find-all-numbers-disappeared-in-an-array/solution.java) |
-| remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
-| reverse-string | 344. Reverse String | Easy | java | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](./solutions/Easy/0344-reverse-string/solution.java) |
-| ransom-note | 383. Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
-| first-unique-character-in-a-string | 387. First Unique Character In A String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
-| find-the-difference | 389. Find The Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
-| fizz-buzz | 412. Fizz Buzz | Easy | java | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.java) |
-| reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
-| reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
-| reverse-words-in-a-string-iii | Reverse Words in a String III | Easy | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.java) |
-| sales-person | Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
 | serialize-and-deserialize-bst | 449. Serialize And Deserialize Bst | Medium | java | [Problem](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution](./solutions/Medium/0449-serialize-and-deserialize-bst/solution.java) |
-| shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | java | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
-| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | java | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.java) |
-| single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
 | sort-characters-by-frequency | 451. Sort Characters By Frequency | Medium | java | [Problem](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](./solutions/Medium/0451-sort-characters-by-frequency/solution.java) |
 | minimum-moves-to-equal-array-elements | 453. Minimum Moves To Equal Array Elements | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./solutions/Medium/0453-minimum-moves-to-equal-array-elements/solution.java) |
 | 4sum-ii | 454. 4sum Ii | Medium | java | [Problem](https://leetcode.com/problems/4sum-ii/) | [Solution](./solutions/Medium/0454-4sum-ii/solution.java) |
@@ -198,20 +209,10 @@
 | repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | java | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.java) |
 | lfu-cache | 460. Lfu Cache | Hard | java | [Problem](https://leetcode.com/problems/lfu-cache/) | [Solution](./solutions/Hard/0460-lfu-cache/solution.java) |
 | random-pick-with-weight | 528. Random Pick With Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
-| student-attendance-record-i | Student Attendance Record I | Easy | cpp | [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution](./solutions/Easy/0551-student-attendance-record-i/solution.cpp) |
-| student-attendance-record-ii | Student Attendance Record II | Hard | java | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.java) |
-| subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
-| swap-sex-of-employees | Swap Sex of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
-| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
-| tree-node | Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
-| triangle-judgement | Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
-| two-sum | 1. Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
-| valid-anagram | 242. Valid Anagram | Easy | python3 | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.py) |
-| ugly-number | 263. Ugly Number | Easy | python3 | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.py) |
 | valid-square | Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | word-pattern | 290. Word Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/word-pattern/) | [Solution](./solutions/Easy/0290-word-pattern/solution.py) |
 | valid-perfect-square | 367. Valid Perfect Square | Easy | python3 | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.py) |
 | sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
 | third-maximum-number | 414. Third Maximum Number | Easy | java | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.java) |
-| assign-cookies | 455. Assign Cookies | Easy | java | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.java) |
+| find-all-numbers-disappeared-in-an-array | 448. Find All Numbers Disappeared In An Array | Easy | java | [Problem](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](./solutions/Easy/0448-find-all-numbers-disappeared-in-an-array/solution.java) |
 | valid-triangle-number | Valid Triangle Number | Medium | java | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.java) |
