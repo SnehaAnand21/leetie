@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, String, Simulation, Linear Algebra
 // Link     : https://leetcode.com/problems/solve-the-equation/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42132000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42908000 (beats 36%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
