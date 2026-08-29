@@ -2,13 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 238 Solved
+## Progress Summary: 239 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 01-matrix | 01 Matrix | Medium | java | [Problem](https://leetcode.com/problems/01-matrix/) | [Solution](./solutions/Medium/0542-01-matrix/solution.java) |
 | 2-keys-keyboard | 2 Keys Keyboard | Medium | java | [Problem](https://leetcode.com/problems/2-keys-keyboard/) | [Solution](./solutions/Medium/0650-2-keys-keyboard/solution.java) |
-| add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
 | add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
 | array-nesting | Array Nesting | Medium | java | [Problem](https://leetcode.com/problems/array-nesting/) | [Solution](./solutions/Medium/0565-array-nesting/solution.java) |
 | array-partition | Array Partition | Easy | java | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.java) |
@@ -17,6 +16,7 @@
 | big-countries | Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
 | biggest-single-number | Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
+| add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
 | binary-tree-tilt | Binary Tree Tilt | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.java) |
 | brick-wall | Brick Wall | Medium | python | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
@@ -65,6 +65,7 @@
 | maximum-depth-of-n-ary-tree | Maximum Depth of N-ary Tree | Easy | java | [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution](./solutions/Easy/0559-maximum-depth-of-n-ary-tree/solution.java) |
 | maximum-distance-in-arrays | Maximum Distance in Arrays | Medium | java | [Problem](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Solution](./solutions/Medium/0624-maximum-distance-in-arrays/solution.java) |
 | maximum-product-of-three-numbers | Maximum Product of Three Numbers | Easy | java | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.java) |
+| maximum-valid-split-positions-i | Maximum Valid Split Positions I | Medium | java | [Problem](https://leetcode.com/problems/maximum-valid-split-positions-i/) | [Solution](./solutions/Medium/4035-maximum-valid-split-positions-i/solution.java) |
 | maximum-width-of-binary-tree | Maximum Width of Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](./solutions/Medium/0662-maximum-width-of-binary-tree/solution.java) |
 | merge-two-binary-trees | Merge Two Binary Trees | Easy | java | [Problem](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution](./solutions/Easy/0617-merge-two-binary-trees/solution.java) |
 | minimum-absolute-difference-in-bst | Minimum Absolute Difference in BST | Easy | python | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
@@ -75,64 +76,22 @@
 | n-ary-tree-postorder-traversal | N-ary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0590-n-ary-tree-postorder-traversal/solution.java) |
 | n-ary-tree-preorder-traversal | N-ary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.java) |
 | next-greater-element-iii | Next Greater Element III | Medium | python | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.py) |
-| nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
 | non-decreasing-array | Non-decreasing Array | Medium | java | [Problem](https://leetcode.com/problems/non-decreasing-array/) | [Solution](./solutions/Medium/0665-non-decreasing-array/solution.java) |
 | non-negative-integers-without-consecutive-ones | Non-negative Integers without Consecutive Ones | Hard | java | [Problem](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution](./solutions/Hard/0600-non-negative-integers-without-consecutive-ones/solution.java) |
 | not-boring-movies | Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
-| number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
-| lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
-| delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
-| palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
 | palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
 | permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
 | power-of-two | 231. Power Of Two | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-two/) | [Solution](./solutions/Easy/0231-power-of-two/solution.py) |
+| number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
+| palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
+| nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
 | print-binary-tree | Print Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/print-binary-tree/) | [Solution](./solutions/Medium/0655-print-binary-tree/solution.java) |
 | range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
-| sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
-| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
-| different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
-| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
-| trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
-| ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
-| integer-to-english-words | 273. Integer To English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
-| h-index | 274. H Index | Medium | python3 | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.py) |
-| h-index-ii | 275. H Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
-| perfect-squares | 279. Perfect Squares | Medium | python3 | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.py) |
-| expression-add-operators | 282. Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
-| peeking-iterator | 284. Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
-| find-the-duplicate-number | 287. Find The Duplicate Number | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.py) |
-| game-of-life | 289. Game Of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
-| find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
-| serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | python3 | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.py) |
-| bulls-and-cows | 299. Bulls And Cows | Medium | python3 | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.py) |
-| remove-invalid-parentheses | 301. Remove Invalid Parentheses | Hard | python3 | [Problem](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](./solutions/Hard/0301-remove-invalid-parentheses/solution.py) |
 | range-sum-query-immutable | 303. Range Sum Query Immutable | Easy | python3 | [Problem](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](./solutions/Easy/0303-range-sum-query-immutable/solution.py) |
-| range-sum-query-2d-immutable | 304. Range Sum Query 2d Immutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](./solutions/Medium/0304-range-sum-query-2d-immutable/solution.py) |
-| additive-number | 306. Additive Number | Medium | python3 | [Problem](https://leetcode.com/problems/additive-number/) | [Solution](./solutions/Medium/0306-additive-number/solution.py) |
-| range-sum-query-mutable | 307. Range Sum Query Mutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.py) |
-| minimum-height-trees | 310. Minimum Height Trees | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-height-trees/) | [Solution](./solutions/Medium/0310-minimum-height-trees/solution.py) |
-| burst-balloons | 312. Burst Balloons | Hard | python3 | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.py) |
-| super-ugly-number | 313. Super Ugly Number | Medium | python3 | [Problem](https://leetcode.com/problems/super-ugly-number/) | [Solution](./solutions/Medium/0313-super-ugly-number/solution.py) |
-| count-of-smaller-numbers-after-self | 315. Count Of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
-| remove-duplicate-letters | 316. Remove Duplicate Letters | Medium | python3 | [Problem](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution](./solutions/Medium/0316-remove-duplicate-letters/solution.py) |
-| maximum-product-of-word-lengths | 318. Maximum Product Of Word Lengths | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](./solutions/Medium/0318-maximum-product-of-word-lengths/solution.py) |
-| bulb-switcher | 319. Bulb Switcher | Medium | python3 | [Problem](https://leetcode.com/problems/bulb-switcher/) | [Solution](./solutions/Medium/0319-bulb-switcher/solution.py) |
-| create-maximum-number | 321. Create Maximum Number | Hard | python3 | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.py) |
-| coin-change | 322. Coin Change | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.py) |
-| wiggle-sort-ii | 324. Wiggle Sort Ii | Medium | python3 | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.py) |
 | power-of-three | 326. Power Of Three | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-three/) | [Solution](./solutions/Easy/0326-power-of-three/solution.py) |
-| count-of-range-sum | 327. Count Of Range Sum | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-range-sum/) | [Solution](./solutions/Hard/0327-count-of-range-sum/solution.py) |
-| longest-increasing-path-in-a-matrix | 329. Longest Increasing Path In A Matrix | Hard | python3 | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.py) |
-| patching-array | 330. Patching Array | Hard | python3 | [Problem](https://leetcode.com/problems/patching-array/) | [Solution](./solutions/Hard/0330-patching-array/solution.py) |
-| verify-preorder-serialization-of-a-binary-tree | 331. Verify Preorder Serialization Of A Binary Tree | Medium | python3 | [Problem](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Solution](./solutions/Medium/0331-verify-preorder-serialization-of-a-binary-tree/solution.py) |
-| reconstruct-itinerary | 332. Reconstruct Itinerary | Hard | python3 | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.py) |
-| self-crossing | 335. Self Crossing | Hard | python3 | [Problem](https://leetcode.com/problems/self-crossing/) | [Solution](./solutions/Hard/0335-self-crossing/solution.py) |
-| palindrome-pairs | 336. Palindrome Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/palindrome-pairs/) | [Solution](./solutions/Hard/0336-palindrome-pairs/solution.py) |
-| flatten-nested-list-iterator | 341. Flatten Nested List Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.py) |
 | power-of-four | 342. Power Of Four | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.py) |
-| integer-break | 343. Integer Break | Medium | python3 | [Problem](https://leetcode.com/problems/integer-break/) | [Solution](./solutions/Medium/0343-integer-break/solution.py) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
 | replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
@@ -161,11 +120,54 @@
 | triangle-judgement | Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
 | trim-a-binary-search-tree | Trim a Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution](./solutions/Medium/0669-trim-a-binary-search-tree/solution.java) |
 | two-sum | 1. Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
+| lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
+| delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
+| sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
+| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
+| different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
 | two-sum-iv-input-is-a-bst | Two Sum IV - Input is a BST | Easy | java | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.java) |
 | valid-anagram | 242. Valid Anagram | Easy | python3 | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.py) |
+| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
+| trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
 | ugly-number | 263. Ugly Number | Easy | python3 | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.py) |
+| ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
+| integer-to-english-words | 273. Integer To English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
+| h-index | 274. H Index | Medium | python3 | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.py) |
+| h-index-ii | 275. H Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
+| perfect-squares | 279. Perfect Squares | Medium | python3 | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.py) |
+| expression-add-operators | 282. Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
+| peeking-iterator | 284. Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
+| find-the-duplicate-number | 287. Find The Duplicate Number | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.py) |
+| game-of-life | 289. Game Of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
 | valid-square | Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
+| valid-triangle-number | Valid Triangle Number | Medium | java | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.java) |
 | word-pattern | 290. Word Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/word-pattern/) | [Solution](./solutions/Easy/0290-word-pattern/solution.py) |
+| find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
+| serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | python3 | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.py) |
+| bulls-and-cows | 299. Bulls And Cows | Medium | python3 | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.py) |
+| remove-invalid-parentheses | 301. Remove Invalid Parentheses | Hard | python3 | [Problem](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](./solutions/Hard/0301-remove-invalid-parentheses/solution.py) |
+| range-sum-query-2d-immutable | 304. Range Sum Query 2d Immutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](./solutions/Medium/0304-range-sum-query-2d-immutable/solution.py) |
+| additive-number | 306. Additive Number | Medium | python3 | [Problem](https://leetcode.com/problems/additive-number/) | [Solution](./solutions/Medium/0306-additive-number/solution.py) |
+| range-sum-query-mutable | 307. Range Sum Query Mutable | Medium | python3 | [Problem](https://leetcode.com/problems/range-sum-query-mutable/) | [Solution](./solutions/Medium/0307-range-sum-query-mutable/solution.py) |
+| minimum-height-trees | 310. Minimum Height Trees | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-height-trees/) | [Solution](./solutions/Medium/0310-minimum-height-trees/solution.py) |
+| burst-balloons | 312. Burst Balloons | Hard | python3 | [Problem](https://leetcode.com/problems/burst-balloons/) | [Solution](./solutions/Hard/0312-burst-balloons/solution.py) |
+| super-ugly-number | 313. Super Ugly Number | Medium | python3 | [Problem](https://leetcode.com/problems/super-ugly-number/) | [Solution](./solutions/Medium/0313-super-ugly-number/solution.py) |
+| count-of-smaller-numbers-after-self | 315. Count Of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
+| remove-duplicate-letters | 316. Remove Duplicate Letters | Medium | python3 | [Problem](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution](./solutions/Medium/0316-remove-duplicate-letters/solution.py) |
+| maximum-product-of-word-lengths | 318. Maximum Product Of Word Lengths | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Solution](./solutions/Medium/0318-maximum-product-of-word-lengths/solution.py) |
+| bulb-switcher | 319. Bulb Switcher | Medium | python3 | [Problem](https://leetcode.com/problems/bulb-switcher/) | [Solution](./solutions/Medium/0319-bulb-switcher/solution.py) |
+| create-maximum-number | 321. Create Maximum Number | Hard | python3 | [Problem](https://leetcode.com/problems/create-maximum-number/) | [Solution](./solutions/Hard/0321-create-maximum-number/solution.py) |
+| coin-change | 322. Coin Change | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change/) | [Solution](./solutions/Medium/0322-coin-change/solution.py) |
+| wiggle-sort-ii | 324. Wiggle Sort Ii | Medium | python3 | [Problem](https://leetcode.com/problems/wiggle-sort-ii/) | [Solution](./solutions/Medium/0324-wiggle-sort-ii/solution.py) |
+| count-of-range-sum | 327. Count Of Range Sum | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-range-sum/) | [Solution](./solutions/Hard/0327-count-of-range-sum/solution.py) |
+| longest-increasing-path-in-a-matrix | 329. Longest Increasing Path In A Matrix | Hard | python3 | [Problem](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Solution](./solutions/Hard/0329-longest-increasing-path-in-a-matrix/solution.py) |
+| patching-array | 330. Patching Array | Hard | python3 | [Problem](https://leetcode.com/problems/patching-array/) | [Solution](./solutions/Hard/0330-patching-array/solution.py) |
+| verify-preorder-serialization-of-a-binary-tree | 331. Verify Preorder Serialization Of A Binary Tree | Medium | python3 | [Problem](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Solution](./solutions/Medium/0331-verify-preorder-serialization-of-a-binary-tree/solution.py) |
+| reconstruct-itinerary | 332. Reconstruct Itinerary | Hard | python3 | [Problem](https://leetcode.com/problems/reconstruct-itinerary/) | [Solution](./solutions/Hard/0332-reconstruct-itinerary/solution.py) |
+| self-crossing | 335. Self Crossing | Hard | python3 | [Problem](https://leetcode.com/problems/self-crossing/) | [Solution](./solutions/Hard/0335-self-crossing/solution.py) |
+| palindrome-pairs | 336. Palindrome Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/palindrome-pairs/) | [Solution](./solutions/Hard/0336-palindrome-pairs/solution.py) |
+| flatten-nested-list-iterator | 341. Flatten Nested List Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution](./solutions/Medium/0341-flatten-nested-list-iterator/solution.py) |
+| integer-break | 343. Integer Break | Medium | python3 | [Problem](https://leetcode.com/problems/integer-break/) | [Solution](./solutions/Medium/0343-integer-break/solution.py) |
 | top-k-frequent-elements | 347. Top K Frequent Elements | Medium | python3 | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/Medium/0347-top-k-frequent-elements/solution.py) |
 | data-stream-as-disjoint-intervals | 352. Data Stream As Disjoint Intervals | Hard | python3 | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.py) |
 | design-twitter | 355. Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
@@ -243,4 +245,3 @@
 | repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | java | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.java) |
 | lfu-cache | 460. Lfu Cache | Hard | java | [Problem](https://leetcode.com/problems/lfu-cache/) | [Solution](./solutions/Hard/0460-lfu-cache/solution.java) |
 | random-pick-with-weight | 528. Random Pick With Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
-| valid-triangle-number | Valid Triangle Number | Medium | java | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.java) |
