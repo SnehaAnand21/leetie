@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 228 Solved
+## Progress Summary: 229 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -17,6 +17,7 @@
 | biggest-single-number | Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
 | binary-tree-tilt | Binary Tree Tilt | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.java) |
+| binary-watch | 401. Binary Watch | Easy | java | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.java) |
 | brick-wall | Brick Wall | Medium | python | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
 | classes-with-at-least-5-students | Classes With at Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
@@ -46,11 +47,9 @@
 | friend-requests-ii-who-has-the-most-friends | Friend Requests II: Who Has the Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
 | game-play-analysis-iv | Game Play Analysis IV | Medium | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](./solutions/Medium/0550-game-play-analysis-iv/solution.sql) |
 | human-traffic-of-stadium | Human Traffic of Stadium | Hard | mysql | [Problem](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](./solutions/Hard/0601-human-traffic-of-stadium/solution.sql) |
+| image-smoother | Image Smoother | Easy | java | [Problem](https://leetcode.com/problems/image-smoother/) | [Solution](./solutions/Easy/0661-image-smoother/solution.java) |
 | implement-queue-using-stacks | 232. Implement Queue Using Stacks | Easy | python3 | [Problem](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](./solutions/Easy/0232-implement-queue-using-stacks/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
-| intersection-of-two-arrays-ii | 350. Intersection Of Two Arrays Ii | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.py) |
-| first-unique-character-in-a-string | 387. First Unique Character In A String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
-| find-the-difference | 389. Find The Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
 | investments-in-2016 | Investments in 2016 | Medium | mysql | [Problem](https://leetcode.com/problems/investments-in-2016/) | [Solution](./solutions/Medium/0585-investments-in-2016/solution.sql) |
 | k-inverse-pairs-array | K Inverse Pairs Array | Hard | java | [Problem](https://leetcode.com/problems/k-inverse-pairs-array/) | [Solution](./solutions/Hard/0629-k-inverse-pairs-array/solution.java) |
 | lexicographically-smallest-palindromic-permutation-greater-than-target | Lexicographically Smallest Palindromic Permutation Greater Than Target | Hard | java | [Problem](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Solution](./solutions/Hard/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.java) |
@@ -66,16 +65,31 @@
 | minimum-absolute-difference-in-bst | Minimum Absolute Difference in BST | Easy | python | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
 | minimum-index-sum-of-two-lists | Minimum Index Sum of Two Lists | Easy | java | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.java) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
-| missing-number | 268. Missing Number | Easy | python3 | [Problem](https://leetcode.com/problems/missing-number/) | [Solution](./solutions/Easy/0268-missing-number/solution.py) |
-| n-ary-tree-postorder-traversal | N-ary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0590-n-ary-tree-postorder-traversal/solution.java) |
-| n-ary-tree-preorder-traversal | N-ary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.java) |
-| next-greater-element-iii | Next Greater Element III | Medium | python | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.py) |
-| nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
-| non-negative-integers-without-consecutive-ones | Non-negative Integers without Consecutive Ones | Hard | java | [Problem](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution](./solutions/Hard/0600-non-negative-integers-without-consecutive-ones/solution.java) |
-| not-boring-movies | Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
 | lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
 | delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
+| sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
+| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
+| different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
+| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
+| trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
+| ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
+| missing-number | 268. Missing Number | Easy | python3 | [Problem](https://leetcode.com/problems/missing-number/) | [Solution](./solutions/Easy/0268-missing-number/solution.py) |
+| integer-to-english-words | 273. Integer To English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
+| h-index | 274. H Index | Medium | python3 | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.py) |
+| h-index-ii | 275. H Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
+| n-ary-tree-postorder-traversal | N-ary Tree Postorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](./solutions/Easy/0590-n-ary-tree-postorder-traversal/solution.java) |
+| n-ary-tree-preorder-traversal | N-ary Tree Preorder Traversal | Easy | java | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.java) |
+| next-greater-element-iii | Next Greater Element III | Medium | python | [Problem](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](./solutions/Medium/0556-next-greater-element-iii/solution.py) |
+| perfect-squares | 279. Perfect Squares | Medium | python3 | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.py) |
+| expression-add-operators | 282. Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
+| peeking-iterator | 284. Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
+| find-the-duplicate-number | 287. Find The Duplicate Number | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.py) |
+| game-of-life | 289. Game Of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
+| nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
+| find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
+| non-negative-integers-without-consecutive-ones | Non-negative Integers without Consecutive Ones | Hard | java | [Problem](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution](./solutions/Hard/0600-non-negative-integers-without-consecutive-ones/solution.java) |
+| not-boring-movies | Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
 | palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
@@ -84,21 +98,6 @@
 | palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
 | print-binary-tree | Print Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/print-binary-tree/) | [Solution](./solutions/Medium/0655-print-binary-tree/solution.java) |
 | range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
-| sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
-| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
-| different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
-| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
-| trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
-| ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
-| integer-to-english-words | 273. Integer To English Words | Hard | python3 | [Problem](https://leetcode.com/problems/integer-to-english-words/) | [Solution](./solutions/Hard/0273-integer-to-english-words/solution.py) |
-| h-index | 274. H Index | Medium | python3 | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.py) |
-| h-index-ii | 275. H Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
-| perfect-squares | 279. Perfect Squares | Medium | python3 | [Problem](https://leetcode.com/problems/perfect-squares/) | [Solution](./solutions/Medium/0279-perfect-squares/solution.py) |
-| expression-add-operators | 282. Expression Add Operators | Hard | python3 | [Problem](https://leetcode.com/problems/expression-add-operators/) | [Solution](./solutions/Hard/0282-expression-add-operators/solution.py) |
-| peeking-iterator | 284. Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
-| find-the-duplicate-number | 287. Find The Duplicate Number | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.py) |
-| game-of-life | 289. Game Of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
-| find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
 | serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | python3 | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.py) |
 | bulls-and-cows | 299. Bulls And Cows | Medium | python3 | [Problem](https://leetcode.com/problems/bulls-and-cows/) | [Solution](./solutions/Medium/0299-bulls-and-cows/solution.py) |
 | remove-invalid-parentheses | 301. Remove Invalid Parentheses | Hard | python3 | [Problem](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](./solutions/Hard/0301-remove-invalid-parentheses/solution.py) |
@@ -133,6 +132,7 @@
 | reverse-string | 344. Reverse String | Easy | java | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](./solutions/Easy/0344-reverse-string/solution.java) |
 | top-k-frequent-elements | 347. Top K Frequent Elements | Medium | python3 | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/Medium/0347-top-k-frequent-elements/solution.py) |
 | intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.py) |
+| intersection-of-two-arrays-ii | 350. Intersection Of Two Arrays Ii | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.py) |
 | data-stream-as-disjoint-intervals | 352. Data Stream As Disjoint Intervals | Hard | python3 | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.py) |
 | design-twitter | 355. Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
 | count-numbers-with-unique-digits | 357. Count Numbers With Unique Digits | Medium | python3 | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.py) |
@@ -152,20 +152,11 @@
 | shuffle-an-array | 384. Shuffle An Array | Medium | java | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.java) |
 | mini-parser | 385. Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
 | lexicographical-numbers | 386. Lexicographical Numbers | Medium | java | [Problem](https://leetcode.com/problems/lexicographical-numbers/) | [Solution](./solutions/Medium/0386-lexicographical-numbers/solution.java) |
+| first-unique-character-in-a-string | 387. First Unique Character In A String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
 | longest-absolute-file-path | 388. Longest Absolute File Path | Medium | java | [Problem](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./solutions/Medium/0388-longest-absolute-file-path/solution.java) |
+| find-the-difference | 389. Find The Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
 | elimination-game | 390. Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
 | perfect-rectangle | 391. Perfect Rectangle | Hard | java | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.java) |
-| utf-8-validation | 393. Utf 8 Validation | Medium | java | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.java) |
-| longest-substring-with-at-least-k-repeating-characters | 395. Longest Substring With At Least K Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.java) |
-| rotate-function | 396. Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
-| integer-replacement | 397. Integer Replacement | Medium | java | [Problem](https://leetcode.com/problems/integer-replacement/) | [Solution](./solutions/Medium/0397-integer-replacement/solution.java) |
-| random-pick-index | 398. Random Pick Index | Medium | java | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.java) |
-| nth-digit | 400. Nth Digit | Medium | java | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.java) |
-| binary-watch | 401. Binary Watch | Easy | java | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.java) |
-| remove-k-digits | 402. Remove K Digits | Medium | java | [Problem](https://leetcode.com/problems/remove-k-digits/) | [Solution](./solutions/Medium/0402-remove-k-digits/solution.java) |
-| frog-jump | 403. Frog Jump | Hard | java | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.java) |
-| convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
-| queue-reconstruction-by-height | 406. Queue Reconstruction By Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
 | reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
 | reverse-words-in-a-string-iii | Reverse Words in a String III | Easy | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.java) |
 | robot-return-to-origin | Robot Return to Origin | Easy | java | [Problem](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](./solutions/Easy/0657-robot-return-to-origin/solution.java) |
@@ -193,7 +184,17 @@
 | valid-square | Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
 | word-pattern | 290. Word Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/word-pattern/) | [Solution](./solutions/Easy/0290-word-pattern/solution.py) |
 | valid-perfect-square | 367. Valid Perfect Square | Easy | python3 | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.py) |
+| utf-8-validation | 393. Utf 8 Validation | Medium | java | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.java) |
+| longest-substring-with-at-least-k-repeating-characters | 395. Longest Substring With At Least K Repeating Characters | Medium | java | [Problem](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](./solutions/Medium/0395-longest-substring-with-at-least-k-repeating-characters/solution.java) |
+| rotate-function | 396. Rotate Function | Medium | java | [Problem](https://leetcode.com/problems/rotate-function/) | [Solution](./solutions/Medium/0396-rotate-function/solution.java) |
+| integer-replacement | 397. Integer Replacement | Medium | java | [Problem](https://leetcode.com/problems/integer-replacement/) | [Solution](./solutions/Medium/0397-integer-replacement/solution.java) |
+| random-pick-index | 398. Random Pick Index | Medium | java | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.java) |
+| nth-digit | 400. Nth Digit | Medium | java | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.java) |
+| remove-k-digits | 402. Remove K Digits | Medium | java | [Problem](https://leetcode.com/problems/remove-k-digits/) | [Solution](./solutions/Medium/0402-remove-k-digits/solution.java) |
+| frog-jump | 403. Frog Jump | Hard | java | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.java) |
 | sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | java | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.java) |
+| convert-a-number-to-hexadecimal | 405. Convert A Number To Hexadecimal | Easy | java | [Problem](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Solution](./solutions/Easy/0405-convert-a-number-to-hexadecimal/solution.java) |
+| queue-reconstruction-by-height | 406. Queue Reconstruction By Height | Medium | java | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.java) |
 | trapping-rain-water-ii | 407. Trapping Rain Water Ii | Hard | java | [Problem](https://leetcode.com/problems/trapping-rain-water-ii/) | [Solution](./solutions/Hard/0407-trapping-rain-water-ii/solution.java) |
 | longest-palindrome | 409. Longest Palindrome | Easy | java | [Problem](https://leetcode.com/problems/longest-palindrome/) | [Solution](./solutions/Easy/0409-longest-palindrome/solution.java) |
 | split-array-largest-sum | 410. Split Array Largest Sum | Hard | java | [Problem](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](./solutions/Hard/0410-split-array-largest-sum/solution.java) |
