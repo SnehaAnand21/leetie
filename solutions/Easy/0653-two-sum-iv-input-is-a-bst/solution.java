@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, Two Pointers, Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
 // Link     : https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42604000 (beats 0%)
+// Runtime  : 3 ms (beats 73%)
+// Memory   : 47484000 (beats 21%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
