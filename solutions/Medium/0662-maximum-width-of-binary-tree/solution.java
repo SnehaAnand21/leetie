@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/maximum-width-of-binary-tree/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42400000 (beats 0%)
+// Runtime  : 2 ms (beats 42%)
+// Memory   : 45068000 (beats 65%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
