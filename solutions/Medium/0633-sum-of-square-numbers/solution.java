@@ -1,0 +1,23 @@
+// ──────────────────────────────────────────────────
+// Problem  : 633. Sum of Square Numbers
+// Difficulty: Medium
+// Tags     : Math, Two Pointers, Binary Search
+// Link     : https://leetcode.com/problems/sum-of-square-numbers/
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42024000 (beats 0%)
+// Language : java
+// Copyright: (c) 2026 SnehaAnand21. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+class Solution {
+    public boolean judgeSquareSum(int c) {
+        for (long a = 0; a * a <= c; a++) {   // Iterate through all possible values of `a`
+            double b = Math.sqrt(c - a * a);  // Compute `b` as the square root of `c - a^2`
+            if (b == (int)b) {                 // Check if `b` is an integer
+                return true;                   // If `b` is an integer, return true
+            }
+        }
+        return false;                          // If no such pair `(a, b)` is found, return false
+    }
+}
