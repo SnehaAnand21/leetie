@@ -4,7 +4,7 @@
 // Tags     : String, Dynamic Programming
 // Link     : https://leetcode.com/problems/strange-printer/
 // Runtime  : 12 ms (beats 91%)
-// Memory   : 45088000 (beats 18%)
+// Memory   : 44980000 (beats 29%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
