@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Two Pointers, Binary Search
 // Link     : https://leetcode.com/problems/sum-of-square-numbers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42024000 (beats 0%)
+// Runtime  : 6 ms (beats 14%)
+// Memory   : 42072000 (beats 68%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
