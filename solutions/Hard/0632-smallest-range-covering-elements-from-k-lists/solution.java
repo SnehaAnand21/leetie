@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 43172000 (beats 0%)
+// Runtime  : 93 ms (beats 87%)
+// Memory   : 86268000 (beats 37%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
