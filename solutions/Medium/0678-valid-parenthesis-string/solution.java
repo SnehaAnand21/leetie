@@ -4,7 +4,7 @@
 // Tags     : String, Dynamic Programming, Stack, Greedy, Bracket Sequences
 // Link     : https://leetcode.com/problems/valid-parenthesis-string/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 42540000 (beats 83%)
+// Memory   : 42944000 (beats 19%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
