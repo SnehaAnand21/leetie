@@ -1,0 +1,51 @@
+// ──────────────────────────────────────────────────
+// Problem  : 719. Find K-th Smallest Pair Distance
+// Difficulty: Hard
+// Tags     : Array, Two Pointers, Binary Search, Sorting
+// Link     : https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 42164000 (beats 0%)
+// Language : java
+// Copyright: (c) 2026 SnehaAnand21. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+class Solution {
+
+    public int smallestDistancePair(int[] nums, int k) {
+        int arrayLength = nums.length;
+
+        // Find the maximum element in the array
+        int maxElement = Integer.MIN_VALUE;
+        for (int num : nums) {
+            maxElement = Math.max(maxElement, num);
+        }
+
+        // Initialize a bucket array to store counts of each distance
+        int[] distanceBucket = new int[maxElement + 1];
+
+        // Populate the bucket array with counts of each distance
+        for (int i = 0; i < arrayLength; ++i) {
+            for (int j = i + 1; j < arrayLength; ++j) {
+                // Compute the distance between nums[i] and nums[j]
+                int distance = Math.abs(nums[i] - nums[j]);
+
+                // Increment the count for this distance in the bucket
+                ++distanceBucket[distance];
+            }
+        }
+
+        // Find the k-th smallest distance
+        for (int dist = 0; dist <= maxElement; ++dist) {
+            // Reduce k by the number of pairs with the current distance
+            k -= distanceBucket[dist];
+
+            // If k is less than or equal to 0, return the current distance
+            if (k <= 0) {
+                return dist;
+            }
+        }
+
+        return -1; // Return -1 if no distance found, should not reach here
+    }
+}
