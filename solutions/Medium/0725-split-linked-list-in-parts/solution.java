@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Linked List
 // Link     : https://leetcode.com/problems/split-linked-list-in-parts/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42416000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 45016000 (beats 31%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
