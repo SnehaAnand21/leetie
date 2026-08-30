@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Prefix Sum
 // Link     : https://leetcode.com/problems/find-pivot-index/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42436000 (beats 0%)
+// Runtime  : 1 ms (beats 98%)
+// Memory   : 47276000 (beats 78%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
