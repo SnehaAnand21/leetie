@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask
 // Link     : https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42868000 (beats 0%)
+// Runtime  : 2 ms (beats 98%)
+// Memory   : 43068000 (beats 66%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
