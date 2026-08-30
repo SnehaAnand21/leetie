@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 254 Solved
+## Progress Summary: 255 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,6 +10,11 @@
 | 2-keys-keyboard | 2 Keys Keyboard | Medium | java | [Problem](https://leetcode.com/problems/2-keys-keyboard/) | [Solution](./solutions/Medium/0650-2-keys-keyboard/solution.java) |
 | 24-game | 24 Game | Hard | java | [Problem](https://leetcode.com/problems/24-game/) | [Solution](./solutions/Hard/0679-24-game/solution.java) |
 | number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
+| lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
+| delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
+| sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
+| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
+| different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
 | add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
 | add-one-row-to-tree | Add One Row to Tree | Medium | java | [Problem](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution](./solutions/Medium/0623-add-one-row-to-tree/solution.java) |
 | array-nesting | Array Nesting | Medium | java | [Problem](https://leetcode.com/problems/array-nesting/) | [Solution](./solutions/Medium/0565-array-nesting/solution.java) |
@@ -64,6 +69,7 @@
 | logical-or-of-two-binary-grids-represented-as-quad-trees | Logical OR of Two Binary Grids Represented as Quad-Trees | Medium | java | [Problem](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Solution](./solutions/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/solution.java) |
 | longest-continuous-increasing-subsequence | Longest Continuous Increasing Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](./solutions/Easy/0674-longest-continuous-increasing-subsequence/solution.java) |
 | longest-harmonious-subsequence | Longest Harmonious Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.java) |
+| longest-univalue-path | Longest Univalue Path | Medium | java | [Problem](https://leetcode.com/problems/longest-univalue-path/) | [Solution](./solutions/Medium/0687-longest-univalue-path/solution.java) |
 | make-lexicographically-smallest-array-by-swapping-elements | Make Lexicographically Smallest Array by Swapping Elements | Medium | java | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Solution](./solutions/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
 | managers-with-at-least-5-direct-reports | Managers with at Least 5 Direct Reports | Medium | mysql | [Problem](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Solution](./solutions/Medium/0570-managers-with-at-least-5-direct-reports/solution.sql) |
 | map-sum-pairs | Map Sum Pairs | Medium | java | [Problem](https://leetcode.com/problems/map-sum-pairs/) | [Solution](./solutions/Medium/0677-map-sum-pairs/solution.java) |
@@ -111,6 +117,7 @@
 | shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | java | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
 | shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | java | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.java) |
 | single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
+| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
 | smallest-missing-multiple-of-k | Smallest Missing Multiple of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
 | smallest-range-covering-elements-from-k-lists | Smallest Range Covering Elements from K Lists | Hard | java | [Problem](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Solution](./solutions/Hard/0632-smallest-range-covering-elements-from-k-lists/solution.java) |
 | solve-the-equation | Solve the Equation | Medium | java | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.java) |
@@ -126,14 +133,8 @@
 | triangle-judgement | Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
 | trim-a-binary-search-tree | Trim a Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution](./solutions/Medium/0669-trim-a-binary-search-tree/solution.java) |
 | two-sum | 1. Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
-| lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
-| delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
-| sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
-| search-a-2d-matrix-ii | 240. Search A 2d Matrix Ii | Medium | python3 | [Problem](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Solution](./solutions/Medium/0240-search-a-2d-matrix-ii/solution.py) |
-| different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
 | two-sum-iv-input-is-a-bst | Two Sum IV - Input is a BST | Easy | java | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.java) |
 | valid-anagram | 242. Valid Anagram | Easy | python3 | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.py) |
-| single-number-iii | 260. Single Number Iii | Medium | python3 | [Problem](https://leetcode.com/problems/single-number-iii/) | [Solution](./solutions/Medium/0260-single-number-iii/solution.py) |
 | trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
 | ugly-number | 263. Ugly Number | Easy | python3 | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.py) |
 | ugly-number-ii | 264. Ugly Number Ii | Medium | python3 | [Problem](https://leetcode.com/problems/ugly-number-ii/) | [Solution](./solutions/Medium/0264-ugly-number-ii/solution.py) |
@@ -145,10 +146,6 @@
 | peeking-iterator | 284. Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
 | find-the-duplicate-number | 287. Find The Duplicate Number | Medium | python3 | [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./solutions/Medium/0287-find-the-duplicate-number/solution.py) |
 | game-of-life | 289. Game Of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
-| valid-palindrome-ii | Valid Palindrome II | Easy | java | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.java) |
-| valid-parenthesis-string | Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
-| valid-square | Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
-| valid-triangle-number | Valid Triangle Number | Medium | java | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.java) |
 | word-pattern | 290. Word Pattern | Easy | python3 | [Problem](https://leetcode.com/problems/word-pattern/) | [Solution](./solutions/Easy/0290-word-pattern/solution.py) |
 | nim-game | 292. Nim Game | Easy | python3 | [Problem](https://leetcode.com/problems/nim-game/) | [Solution](./solutions/Easy/0292-nim-game/solution.py) |
 | find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
@@ -260,3 +257,7 @@
 | repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | java | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.java) |
 | lfu-cache | 460. Lfu Cache | Hard | java | [Problem](https://leetcode.com/problems/lfu-cache/) | [Solution](./solutions/Hard/0460-lfu-cache/solution.java) |
 | random-pick-with-weight | 528. Random Pick With Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
+| valid-palindrome-ii | Valid Palindrome II | Easy | java | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.java) |
+| valid-parenthesis-string | Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
+| valid-square | Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
+| valid-triangle-number | Valid Triangle Number | Medium | java | [Problem](https://leetcode.com/problems/valid-triangle-number/) | [Solution](./solutions/Medium/0611-valid-triangle-number/solution.java) |
