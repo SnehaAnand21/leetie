@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Depth-First Search, Binary Tree, DP on Trees
 // Link     : https://leetcode.com/problems/longest-univalue-path/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42916000 (beats 0%)
+// Runtime  : 2 ms (beats 99%)
+// Memory   : 50092000 (beats 65%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
