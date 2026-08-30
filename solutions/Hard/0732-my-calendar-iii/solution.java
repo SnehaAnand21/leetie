@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Binary Search, Design, Segment Tree, Prefix Sum, Ordered Set
 // Link     : https://leetcode.com/problems/my-calendar-iii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42824000 (beats 0%)
+// Runtime  : 17 ms (beats 96%)
+// Memory   : 47556000 (beats 17%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
