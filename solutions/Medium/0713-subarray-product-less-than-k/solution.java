@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Sliding Window, Prefix Sum
 // Link     : https://leetcode.com/problems/subarray-product-less-than-k/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42180000 (beats 0%)
+// Runtime  : 3 ms (beats 33%)
+// Memory   : 48224000 (beats 71%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
