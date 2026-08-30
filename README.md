@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 299 Solved
+## Progress Summary: 300 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -58,6 +58,7 @@
 | find-k-closest-elements | Find K Closest Elements | Medium | java | [Problem](https://leetcode.com/problems/find-k-closest-elements/) | [Solution](./solutions/Medium/0658-find-k-closest-elements/solution.java) |
 | find-k-th-smallest-pair-distance | Find K-th Smallest Pair Distance | Hard | java | [Problem](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Solution](./solutions/Hard/0719-find-k-th-smallest-pair-distance/solution.java) |
 | find-pivot-index | Find Pivot Index | Easy | java | [Problem](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/Easy/0724-find-pivot-index/solution.java) |
+| find-smallest-letter-greater-than-target | Find Smallest Letter Greater Than Target | Easy | java | [Problem](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](./solutions/Easy/0744-find-smallest-letter-greater-than-target/solution.java) |
 | find-the-closest-palindrome | Find the Closest Palindrome | Hard | java | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.java) |
 | flood-fill | Flood Fill | Easy | java | [Problem](https://leetcode.com/problems/flood-fill/) | [Solution](./solutions/Easy/0733-flood-fill/solution.java) |
 | fraction-addition-and-subtraction | Fraction Addition and Subtraction | Medium | java | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.java) |
