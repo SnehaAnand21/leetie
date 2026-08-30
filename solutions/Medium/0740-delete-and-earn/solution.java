@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Dynamic Programming
 // Link     : https://leetcode.com/problems/delete-and-earn/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 42700000 (beats 0%)
+// Runtime  : 15 ms (beats 9%)
+// Memory   : 46296000 (beats 94%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
