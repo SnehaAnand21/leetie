@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 282 Solved
+## Progress Summary: 283 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -113,6 +113,7 @@
 | redundant-connection | Redundant Connection | Medium | java | [Problem](https://leetcode.com/problems/redundant-connection/) | [Solution](./solutions/Medium/0684-redundant-connection/solution.java) |
 | redundant-connection-ii | Redundant Connection II | Hard | java | [Problem](https://leetcode.com/problems/redundant-connection-ii/) | [Solution](./solutions/Hard/0685-redundant-connection-ii/solution.java) |
 | remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
+| remove-comments | Remove Comments | Medium | java | [Problem](https://leetcode.com/problems/remove-comments/) | [Solution](./solutions/Medium/0722-remove-comments/solution.java) |
 | removing-minimum-and-maximum-from-array | Removing Minimum and Maximum From Array | Medium | java | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.java) |
 | replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
 | reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
