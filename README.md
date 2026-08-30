@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 273 Solved
+## Progress Summary: 274 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -86,6 +86,7 @@
 | maximum-width-of-binary-tree | Maximum Width of Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution](./solutions/Medium/0662-maximum-width-of-binary-tree/solution.java) |
 | merge-two-binary-trees | Merge Two Binary Trees | Easy | java | [Problem](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution](./solutions/Easy/0617-merge-two-binary-trees/solution.java) |
 | minimum-absolute-difference-in-bst | Minimum Absolute Difference in BST | Easy | python | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
+| minimum-ascii-delete-sum-for-two-strings | Minimum ASCII Delete Sum for Two Strings | Medium | java | [Problem](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Solution](./solutions/Medium/0712-minimum-ascii-delete-sum-for-two-strings/solution.java) |
 | minimum-bishop-moves-to-reach-target | Minimum Bishop Moves to Reach Target | Medium | java | [Problem](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target/) | [Solution](./solutions/Medium/4034-minimum-bishop-moves-to-reach-target/solution.java) |
 | minimum-index-sum-of-two-lists | Minimum Index Sum of Two Lists | Easy | java | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.java) |
 | minimum-time-difference | Minimum Time Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-time-difference/) | [Solution](./solutions/Medium/0539-minimum-time-difference/solution.java) |
