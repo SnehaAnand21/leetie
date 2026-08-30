@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Stack, Simulation
 // Link     : https://leetcode.com/problems/asteroid-collision/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42852000 (beats 0%)
+// Runtime  : 4 ms (beats 83%)
+// Memory   : 47152000 (beats 29%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
