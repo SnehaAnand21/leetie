@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String
 // Link     : https://leetcode.com/problems/to-lower-case/
-// Runtime  : 2 ms (beats 0%)
-// Memory   : 42708000 (beats 0%)
+// Runtime  : 4 ms (beats 5%)
+// Memory   : 43888000 (beats 5%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
