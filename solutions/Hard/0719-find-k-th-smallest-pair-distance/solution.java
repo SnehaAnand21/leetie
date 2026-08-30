@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Two Pointers, Binary Search, Sorting
 // Link     : https://leetcode.com/problems/find-k-th-smallest-pair-distance/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42164000 (beats 0%)
+// Runtime  : 379 ms (beats 5%)
+// Memory   : 47052000 (beats 44%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
