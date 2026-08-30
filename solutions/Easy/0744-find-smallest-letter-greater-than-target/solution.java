@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/find-smallest-letter-greater-than-target/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42484000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 46364000 (beats 51%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
