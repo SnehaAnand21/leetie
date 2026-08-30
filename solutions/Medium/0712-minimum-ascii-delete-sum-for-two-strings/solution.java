@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Dynamic Programming, Longest Common Subsequence
 // Link     : https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42168000 (beats 0%)
+// Runtime  : 19 ms (beats 71%)
+// Memory   : 43216000 (beats 94%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
