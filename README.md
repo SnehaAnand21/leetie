@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 268 Solved
+## Progress Summary: 269 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,6 +18,7 @@
 | big-countries | Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
 | biggest-single-number | Biggest Single Number | Easy | mysql | [Problem](https://leetcode.com/problems/biggest-single-number/) | [Solution](./solutions/Easy/0619-biggest-single-number/solution.sql) |
 | binary-number-with-alternating-bits | Binary Number with Alternating Bits | Easy | java | [Problem](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Solution](./solutions/Easy/0693-binary-number-with-alternating-bits/solution.java) |
+| binary-search | Binary Search | Easy | java | [Problem](https://leetcode.com/problems/binary-search/) | [Solution](./solutions/Easy/0704-binary-search/solution.java) |
 | binary-tree-tilt | Binary Tree Tilt | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.java) |
 | brick-wall | Brick Wall | Medium | python | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | bulb-switcher-ii | Bulb Switcher II | Medium | java | [Problem](https://leetcode.com/problems/bulb-switcher-ii/) | [Solution](./solutions/Medium/0672-bulb-switcher-ii/solution.java) |
@@ -94,11 +95,11 @@
 | non-negative-integers-without-consecutive-ones | Non-negative Integers without Consecutive Ones | Hard | java | [Problem](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution](./solutions/Hard/0600-non-negative-integers-without-consecutive-ones/solution.java) |
 | not-boring-movies | Not Boring Movies | Easy | mysql | [Problem](https://leetcode.com/problems/not-boring-movies/) | [Solution](./solutions/Easy/0620-not-boring-movies/solution.sql) |
 | number-of-digit-one | 233. Number Of Digit One | Hard | python3 | [Problem](https://leetcode.com/problems/number-of-digit-one/) | [Solution](./solutions/Hard/0233-number-of-digit-one/solution.py) |
-| lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
-| delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | optimal-division | Optimal Division | Medium | java | [Problem](https://leetcode.com/problems/optimal-division/) | [Solution](./solutions/Medium/0553-optimal-division/solution.java) |
 | out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
 | palindrome-linked-list | 234. Palindrome Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./solutions/Easy/0234-palindrome-linked-list/solution.py) |
+| lowest-common-ancestor-of-a-binary-search-tree | 235. Lowest Common Ancestor Of A Binary Search Tree | Medium | python3 | [Problem](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./solutions/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/solution.py) |
+| delete-node-in-a-linked-list | 237. Delete Node In A Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](./solutions/Medium/0237-delete-node-in-a-linked-list/solution.py) |
 | palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
 | partition-to-k-equal-sum-subsets | Partition to K Equal Sum Subsets | Medium | java | [Problem](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution](./solutions/Medium/0698-partition-to-k-equal-sum-subsets/solution.java) |
 | permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
