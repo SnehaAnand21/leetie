@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, String, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask
 // Link     : https://leetcode.com/problems/stickers-to-spell-word/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42888000 (beats 0%)
+// Runtime  : 153 ms (beats 24%)
+// Memory   : 47644000 (beats 9%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
