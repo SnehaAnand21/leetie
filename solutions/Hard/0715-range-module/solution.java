@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Design, Segment Tree, Ordered Set
 // Link     : https://leetcode.com/problems/range-module/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42572000 (beats 0%)
+// Runtime  : 57 ms (beats 24%)
+// Memory   : 93296000 (beats 11%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
