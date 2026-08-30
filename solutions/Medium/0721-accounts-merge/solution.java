@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting
 // Link     : https://leetcode.com/problems/accounts-merge/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42636000 (beats 0%)
+// Runtime  : 28 ms (beats 88%)
+// Memory   : 50016000 (beats 29%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
