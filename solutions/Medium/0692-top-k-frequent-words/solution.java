@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting
 // Link     : https://leetcode.com/problems/top-k-frequent-words/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42716000 (beats 0%)
+// Runtime  : 7 ms (beats 88%)
+// Memory   : 46472000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
