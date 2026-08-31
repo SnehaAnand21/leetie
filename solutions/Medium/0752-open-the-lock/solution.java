@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, String, Breadth-First Search, Bidirectional Search
 // Link     : https://leetcode.com/problems/open-the-lock/
-// Runtime  : 9 ms (beats 0%)
-// Memory   : 46704000 (beats 0%)
+// Runtime  : 74 ms (beats 91%)
+// Memory   : 48640000 (beats 64%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
