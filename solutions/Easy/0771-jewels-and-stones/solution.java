@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Hash Table, String
 // Link     : https://leetcode.com/problems/jewels-and-stones/
-// Runtime  : 0 ms (beats 100%)
-// Memory   : 43224000 (beats 36%)
+// Runtime  : 1 ms (beats 60%)
+// Memory   : 43376000 (beats 20%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
