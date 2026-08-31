@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, Two Pointers, String, Greedy
 // Link     : https://leetcode.com/problems/partition-labels/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42812000 (beats 0%)
+// Runtime  : 5 ms (beats 81%)
+// Memory   : 43580000 (beats 56%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
