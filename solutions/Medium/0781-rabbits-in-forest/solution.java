@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Hash Table, Math, Greedy
 // Link     : https://leetcode.com/problems/rabbits-in-forest/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 43004000 (beats 0%)
+// Runtime  : 6 ms (beats 9%)
+// Memory   : 43856000 (beats 86%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
