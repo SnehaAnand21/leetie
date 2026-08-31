@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Graph Coloring, Bipartite Graph
 // Link     : https://leetcode.com/problems/is-graph-bipartite/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42364000 (beats 0%)
+// Runtime  : 1 ms (beats 63%)
+// Memory   : 47304000 (beats 20%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
