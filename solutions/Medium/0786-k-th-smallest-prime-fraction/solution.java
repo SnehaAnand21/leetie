@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Binary Search, Sorting, Heap (Priority Queue)
 // Link     : https://leetcode.com/problems/k-th-smallest-prime-fraction/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 43072000 (beats 0%)
+// Runtime  : 382 ms (beats 25%)
+// Memory   : 85936000 (beats 30%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
