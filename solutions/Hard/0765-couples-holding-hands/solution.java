@@ -3,87 +3,49 @@
 // Difficulty: Hard
 // Tags     : Greedy, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
 // Link     : https://leetcode.com/problems/couples-holding-hands/
-// Runtime  : 58 ms (beats 33%)
-// Memory   : 68076000 (beats 13%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42744000 (beats 75%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
+// Java
 class Solution {
-    int[][] arr;
-    int[][] rightToLeft;
-    int[][] leftToRight;
-    int[][] upToDown;
-    int[][] downToUp;
-    public int orderOfLargestPlusSign(int n, int[][] mines) {
-        leftToRight = new int[n][n];
-        rightToLeft = new int[n][n];
-        upToDown = new int[n][n];
-        downToUp = new int[n][n];
-        arr = new int[n][n];
+    public int minSwapsCouples(int[] row) {
+        int swaps = 0;
+        int n = row.length;
+        int[] position = new int[n];
 
-        for(int[] ele: arr){
-            Arrays.fill(ele, 1);
-        }
-        for(int[] ele: mines){
-            arr[ele[0]][ele[1]] = 0;
+        // Map each person to their seat index
+        for (int i = 0; i < n; i++) {
+            position[row[i]] = i;
         }
 
-        LR(n);
-        RL(n);
+        // Process pairs of seats
+        for (int i = 0; i < n; i += 2) {
+            int first = row[i];
+            int second = row[i + 1];
+            int expectedSecond = first ^ 1; // Partner of first person
 
-        int ans = 0;
+            if (second != expectedSecond) {
+                swaps++;
+                int partnerIndex = position[expectedSecond];
 
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                if(arr[i][j] == 1){
-                    int up = 0;
-                    if(i > 0) up = upToDown[i-1][j];
-                    int down = 0;
-                    if(i < n-1) down = downToUp[i+1][j];
-                    int left = 0;
-                    if(j > 0) left = leftToRight[i][j-1];
-                    int right = 0;
-                    if(j < n-1) right = rightToLeft[i][j+1];
+                // Swap second person with the correct partner
+                swap(row, i + 1, partnerIndex);
 
-                    int minSide = Math.min(left, Math.min(down, Math.min(right, up)));
-
-                    ans = Math.max(ans, minSide+1);
-                }
+                // Update position map after swap
+                position[second] = partnerIndex;
+                position[expectedSecond] = i + 1;
             }
         }
-
-        return ans;
+        return swaps;
     }
 
-    public void LR(int len){
-        for(int i = 0; i < len; i++){
-            for(int j = 0; j < len; j++){
-                if(arr[i][j] != 0){
-                    if(j == 0) leftToRight[i][j] += arr[i][j];
-                    else leftToRight[i][j] = (arr[i][j]+leftToRight[i][j-1]);
-                }
-                if(arr[j][i] != 0){
-                    if(j == 0) upToDown[j][i] += arr[j][i];
-                    else upToDown[j][i] = (arr[j][i]+upToDown[j-1][i]);
-                }
-            }
-        }
-    }
-
-    public void RL(int len){
-        for(int i = 0; i < len; i++){
-            for(int j = len-1; j >= 0; j--){
-                if(arr[i][j] != 0){
-                    if(j == len-1) rightToLeft[i][j] += arr[i][j];
-                    else rightToLeft[i][j] = (arr[i][j]+rightToLeft[i][j+1]);
-                }
-                if(arr[j][i] != 0){
-                    if(j == len-1) downToUp[j][i] += arr[j][i];
-                    else downToUp[j][i] = (arr[j][i]+downToUp[j+1][i]);
-                }
-            }
-        }
+    private void swap(int[] arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
