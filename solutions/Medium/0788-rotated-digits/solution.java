@@ -4,7 +4,7 @@
 // Tags     : Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/rotated-digits/
 // Runtime  : 4 ms (beats 81%)
-// Memory   : 41840000 (beats 93%)
+// Memory   : 42104000 (beats 56%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
