@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 323 Solved
+## Progress Summary: 324 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -172,6 +172,7 @@
 | sum-of-square-numbers | Sum of Square Numbers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.java) |
 | swap-adjacent-in-lr-string | Swap Adjacent in LR String | Medium | java | [Problem](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [Solution](./solutions/Medium/0777-swap-adjacent-in-lr-string/solution.java) |
 | swap-sex-of-employees | Swap Sex of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
+| swim-in-rising-water | Swim in Rising Water | Hard | java | [Problem](https://leetcode.com/problems/swim-in-rising-water/) | [Solution](./solutions/Hard/0778-swim-in-rising-water/solution.java) |
 | task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
 | to-lower-case | To Lower Case | Easy | java | [Problem](https://leetcode.com/problems/to-lower-case/) | [Solution](./solutions/Easy/0709-to-lower-case/solution.java) |
 | toeplitz-matrix | Toeplitz Matrix | Easy | java | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.java) |
