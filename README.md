@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 317 Solved
+## Progress Summary: 318 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -17,6 +17,7 @@
 | asteroid-collision | Asteroid Collision | Medium | java | [Problem](https://leetcode.com/problems/asteroid-collision/) | [Solution](./solutions/Medium/0735-asteroid-collision/solution.java) |
 | average-of-levels-in-binary-tree | Average of Levels in Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Solution](./solutions/Easy/0637-average-of-levels-in-binary-tree/solution.java) |
 | baseball-game | Baseball Game | Easy | java | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.java) |
+| basic-calculator-iv | Basic Calculator IV | Hard | java | [Problem](https://leetcode.com/problems/basic-calculator-iv/) | [Solution](./solutions/Hard/0770-basic-calculator-iv/solution.java) |
 | beautiful-arrangement-ii | Beautiful Arrangement II | Medium | java | [Problem](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Solution](./solutions/Medium/0667-beautiful-arrangement-ii/solution.java) |
 | best-time-to-buy-and-sell-stock-with-transaction-fee | Best Time to Buy and Sell Stock with Transaction Fee | Medium | java | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Solution](./solutions/Medium/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/solution.java) |
 | big-countries | Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
