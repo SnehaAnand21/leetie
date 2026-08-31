@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 311 Solved
+## Progress Summary: 312 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -73,6 +73,7 @@
 | knight-probability-in-chessboard | Knight Probability in Chessboard | Medium | java | [Problem](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution](./solutions/Medium/0688-knight-probability-in-chessboard/solution.java) |
 | kth-largest-element-in-a-stream | Kth Largest Element in a Stream | Easy | java | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.java) |
 | kth-smallest-number-in-multiplication-table | Kth Smallest Number in Multiplication Table | Hard | java | [Problem](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [Solution](./solutions/Hard/0668-kth-smallest-number-in-multiplication-table/solution.java) |
+| largest-plus-sign | Largest Plus Sign | Medium | java | [Problem](https://leetcode.com/problems/largest-plus-sign/) | [Solution](./solutions/Medium/0764-largest-plus-sign/solution.java) |
 | lexicographically-largest-string-after-pair-transformations | Lexicographically Largest String After Pair Transformations | Medium | java | [Problem](https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations/) | [Solution](./solutions/Medium/4036-lexicographically-largest-string-after-pair-transformations/solution.java) |
 | logical-or-of-two-binary-grids-represented-as-quad-trees | Logical OR of Two Binary Grids Represented as Quad-Trees | Medium | java | [Problem](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Solution](./solutions/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/solution.java) |
 | longest-continuous-increasing-subsequence | Longest Continuous Increasing Subsequence | Easy | java | [Problem](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Solution](./solutions/Easy/0674-longest-continuous-increasing-subsequence/solution.java) |
