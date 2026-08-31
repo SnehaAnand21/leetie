@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Stack, Greedy, Sorting, Monotonic Stack
 // Link     : https://leetcode.com/problems/max-chunks-to-make-sorted/
-// Runtime  : 0 ms (beats 100%)
-// Memory   : 46416000 (beats 47%)
+// Runtime  : 0 ms (beats 0%)
+// Memory   : 41816000 (beats 0%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
@@ -12,6 +12,14 @@
 
 class Solution {
     public int maxChunksToSorted(int[] arr) {
-        
+        int ans = 0;
+        int max = arr[0];
+        for (int i = 0; i < arr.length; i++) {
+            max = arr[i] > max ? arr[i] : max;
+            if (max == i) {
+                ans++;
+            }
+        }
+        return ans;
     }
 }
