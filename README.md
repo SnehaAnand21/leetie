@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 312 Solved
+## Progress Summary: 313 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -24,7 +24,6 @@
 | binary-number-with-alternating-bits | Binary Number with Alternating Bits | Easy | java | [Problem](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Solution](./solutions/Easy/0693-binary-number-with-alternating-bits/solution.java) |
 | binary-search | Binary Search | Easy | java | [Problem](https://leetcode.com/problems/binary-search/) | [Solution](./solutions/Easy/0704-binary-search/solution.java) |
 | binary-tree-tilt | Binary Tree Tilt | Easy | java | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.java) |
-| brick-wall | Brick Wall | Medium | python | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | bulb-switcher-ii | Bulb Switcher II | Medium | java | [Problem](https://leetcode.com/problems/bulb-switcher-ii/) | [Solution](./solutions/Medium/0672-bulb-switcher-ii/solution.java) |
 | can-place-flowers | Can Place Flowers | Easy | java | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.java) |
 | cherry-pickup | Cherry Pickup | Hard | java | [Problem](https://leetcode.com/problems/cherry-pickup/) | [Solution](./solutions/Hard/0741-cherry-pickup/solution.java) |
@@ -34,6 +33,7 @@
 | contain-virus | Contain Virus | Hard | java | [Problem](https://leetcode.com/problems/contain-virus/) | [Solution](./solutions/Hard/0749-contain-virus/solution.java) |
 | count-binary-substrings | Count Binary Substrings | Easy | java | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.java) |
 | count-different-palindromic-subsequences | Count Different Palindromic Subsequences | Hard | java | [Problem](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [Solution](./solutions/Hard/0730-count-different-palindromic-subsequences/solution.java) |
+| couples-holding-hands | Couples Holding Hands | Hard | java | [Problem](https://leetcode.com/problems/couples-holding-hands/) | [Solution](./solutions/Hard/0765-couples-holding-hands/solution.java) |
 | course-schedule-iii | Course Schedule III | Hard | java | [Problem](https://leetcode.com/problems/course-schedule-iii/) | [Solution](./solutions/Hard/0630-course-schedule-iii/solution.java) |
 | cracking-the-safe | Cracking the Safe | Hard | java | [Problem](https://leetcode.com/problems/cracking-the-safe/) | [Solution](./solutions/Hard/0753-cracking-the-safe/solution.java) |
 | customer-placing-the-largest-number-of-orders | Customer Placing the Largest Number of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
@@ -117,6 +117,7 @@
 | different-ways-to-add-parentheses | 241. Different Ways To Add Parentheses | Medium | python3 | [Problem](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Solution](./solutions/Medium/0241-different-ways-to-add-parentheses/solution.py) |
 | binary-tree-paths | 257. Binary Tree Paths | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-paths/) | [Solution](./solutions/Easy/0257-binary-tree-paths/solution.py) |
 | add-digits | 258. Add Digits | Easy | python3 | [Problem](https://leetcode.com/problems/add-digits/) | [Solution](./solutions/Easy/0258-add-digits/solution.py) |
+| brick-wall | Brick Wall | Medium | python | [Problem](https://leetcode.com/problems/brick-wall/) | [Solution](./solutions/Medium/0554-brick-wall/solution.py) |
 | complex-number-multiplication | Complex Number Multiplication | Medium | java | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.java) |
 | convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | java | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.java) |
 | delete-duplicate-emails | 196. Delete Duplicate Emails | Easy | mysql | [Problem](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./solutions/Easy/0196-delete-duplicate-emails/solution.sql) |
@@ -160,9 +161,13 @@
 | power-of-four | 342. Power Of Four | Easy | python3 | [Problem](https://leetcode.com/problems/power-of-four/) | [Solution](./solutions/Easy/0342-power-of-four/solution.py) |
 | integer-break | 343. Integer Break | Medium | python3 | [Problem](https://leetcode.com/problems/integer-break/) | [Solution](./solutions/Medium/0343-integer-break/solution.py) |
 | top-k-frequent-elements | 347. Top K Frequent Elements | Medium | python3 | [Problem](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/Medium/0347-top-k-frequent-elements/solution.py) |
+| intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.py) |
+| intersection-of-two-arrays-ii | 350. Intersection Of Two Arrays Ii | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.py) |
 | design-twitter | 355. Design Twitter | Medium | python3 | [Problem](https://leetcode.com/problems/design-twitter/) | [Solution](./solutions/Medium/0355-design-twitter/solution.py) |
 | count-numbers-with-unique-digits | 357. Count Numbers With Unique Digits | Medium | python3 | [Problem](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Solution](./solutions/Medium/0357-count-numbers-with-unique-digits/solution.py) |
 | largest-divisible-subset | 368. Largest Divisible Subset | Medium | python3 | [Problem](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](./solutions/Medium/0368-largest-divisible-subset/solution.py) |
+| remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
+| reverse-string | 344. Reverse String | Easy | java | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](./solutions/Easy/0344-reverse-string/solution.java) |
 | sum-of-two-integers | 371. Sum Of Two Integers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./solutions/Medium/0371-sum-of-two-integers/solution.java) |
 | super-pow | 372. Super Pow | Medium | python3 | [Problem](https://leetcode.com/problems/super-pow/) | [Solution](./solutions/Medium/0372-super-pow/solution.py) |
 | find-k-pairs-with-smallest-sums | 373. Find K Pairs With Smallest Sums | Medium | python3 | [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Solution](./solutions/Medium/0373-find-k-pairs-with-smallest-sums/solution.py) |
@@ -173,23 +178,67 @@
 | insert-delete-getrandom-o1 | 380. Insert Delete Getrandom O1 | Medium | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.java) |
 | linked-list-random-node | 382. Linked List Random Node | Medium | java | [Problem](https://leetcode.com/problems/linked-list-random-node/) | [Solution](./solutions/Medium/0382-linked-list-random-node/solution.java) |
 | ransom-note | 383. Ransom Note | Easy | java | [Problem](https://leetcode.com/problems/ransom-note/) | [Solution](./solutions/Easy/0383-ransom-note/solution.java) |
+| reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
+| shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | java | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
 | shuffle-an-array | 384. Shuffle An Array | Medium | java | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.java) |
 | mini-parser | 385. Mini Parser | Medium | python3 | [Problem](https://leetcode.com/problems/mini-parser/) | [Solution](./solutions/Medium/0385-mini-parser/solution.py) |
 | lexicographical-numbers | 386. Lexicographical Numbers | Medium | java | [Problem](https://leetcode.com/problems/lexicographical-numbers/) | [Solution](./solutions/Medium/0386-lexicographical-numbers/solution.java) |
-| first-unique-character-in-a-string | 387. First Unique Character In A String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
 | longest-absolute-file-path | 388. Longest Absolute File Path | Medium | java | [Problem](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./solutions/Medium/0388-longest-absolute-file-path/solution.java) |
 | elimination-game | 390. Elimination Game | Medium | java | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.java) |
-| remove-boxes | Remove Boxes | Hard | java | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.java) |
-| reverse-string | 344. Reverse String | Easy | java | [Problem](https://leetcode.com/problems/reverse-string/) | [Solution](./solutions/Easy/0344-reverse-string/solution.java) |
-| intersection-of-two-arrays | 349. Intersection Of Two Arrays | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution](./solutions/Easy/0349-intersection-of-two-arrays/solution.py) |
-| intersection-of-two-arrays-ii | 350. Intersection Of Two Arrays Ii | Easy | python3 | [Problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](./solutions/Easy/0350-intersection-of-two-arrays-ii/solution.py) |
-| reverse-string-ii | Reverse String II | Easy | java | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.java) |
-| shortest-and-lexicographically-smallest-beautiful-string | Shortest and Lexicographically Smallest Beautiful String | Medium | java | [Problem](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Solution](./solutions/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
+| open-the-lock | Open the Lock | Medium | java | [Problem](https://leetcode.com/problems/open-the-lock/) | [Solution](./solutions/Medium/0752-open-the-lock/solution.java) |
+| out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
+| palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
+| parse-lisp-expression | Parse Lisp Expression | Hard | java | [Problem](https://leetcode.com/problems/parse-lisp-expression/) | [Solution](./solutions/Hard/0736-parse-lisp-expression/solution.java) |
+| partition-labels | Partition Labels | Medium | java | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.java) |
+| partition-to-k-equal-sum-subsets | Partition to K Equal Sum Subsets | Medium | java | [Problem](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution](./solutions/Medium/0698-partition-to-k-equal-sum-subsets/solution.java) |
+| permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
+| prime-number-of-set-bits-in-binary-representation | Prime Number of Set Bits in Binary Representation | Easy | java | [Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Solution](./solutions/Easy/0762-prime-number-of-set-bits-in-binary-representation/solution.java) |
+| print-binary-tree | Print Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/print-binary-tree/) | [Solution](./solutions/Medium/0655-print-binary-tree/solution.java) |
+| pyramid-transition-matrix | Pyramid Transition Matrix | Medium | java | [Problem](https://leetcode.com/problems/pyramid-transition-matrix/) | [Solution](./solutions/Medium/0756-pyramid-transition-matrix/solution.java) |
+| random-pick-with-blacklist | Random Pick with Blacklist | Hard | java | [Problem](https://leetcode.com/problems/random-pick-with-blacklist/) | [Solution](./solutions/Hard/0710-random-pick-with-blacklist/solution.java) |
+| range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
+| range-module | Range Module | Hard | java | [Problem](https://leetcode.com/problems/range-module/) | [Solution](./solutions/Hard/0715-range-module/solution.java) |
+| reach-a-number | Reach a Number | Medium | java | [Problem](https://leetcode.com/problems/reach-a-number/) | [Solution](./solutions/Medium/0754-reach-a-number/solution.java) |
+| redundant-connection | Redundant Connection | Medium | java | [Problem](https://leetcode.com/problems/redundant-connection/) | [Solution](./solutions/Medium/0684-redundant-connection/solution.java) |
+| redundant-connection-ii | Redundant Connection II | Hard | java | [Problem](https://leetcode.com/problems/redundant-connection-ii/) | [Solution](./solutions/Hard/0685-redundant-connection-ii/solution.java) |
+| remove-comments | Remove Comments | Medium | java | [Problem](https://leetcode.com/problems/remove-comments/) | [Solution](./solutions/Medium/0722-remove-comments/solution.java) |
+| removing-minimum-and-maximum-from-array | Removing Minimum and Maximum From Array | Medium | java | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.java) |
+| replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
+| reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
+| reverse-words-in-a-string-iii | Reverse Words in a String III | Easy | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.java) |
+| robot-return-to-origin | Robot Return to Origin | Easy | java | [Problem](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](./solutions/Easy/0657-robot-return-to-origin/solution.java) |
+| sales-person | Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
+| second-minimum-node-in-a-binary-tree | Second Minimum Node In a Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](./solutions/Easy/0671-second-minimum-node-in-a-binary-tree/solution.java) |
+| sentence-similarity | Sentence Similarity | Easy | java | [Problem](https://leetcode.com/problems/sentence-similarity/) | [Solution](./solutions/Easy/0734-sentence-similarity/solution.java) |
+| set-intersection-size-at-least-two | Set Intersection Size At Least Two | Hard | java | [Problem](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Solution](./solutions/Hard/0757-set-intersection-size-at-least-two/solution.java) |
+| set-mismatch | Set Mismatch | Easy | java | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.java) |
+| shopping-offers | Shopping Offers | Medium | java | [Problem](https://leetcode.com/problems/shopping-offers/) | [Solution](./solutions/Medium/0638-shopping-offers/solution.java) |
+| shortest-completing-word | Shortest Completing Word | Easy | java | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.java) |
+| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | java | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.java) |
 | single-element-in-a-sorted-array | Single Element in a Sorted Array | Medium | java | [Problem](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](./solutions/Medium/0540-single-element-in-a-sorted-array/solution.java) |
+| smallest-missing-multiple-of-k | Smallest Missing Multiple of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
+| smallest-range-covering-elements-from-k-lists | Smallest Range Covering Elements from K Lists | Hard | java | [Problem](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Solution](./solutions/Hard/0632-smallest-range-covering-elements-from-k-lists/solution.java) |
+| solve-the-equation | Solve the Equation | Medium | java | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.java) |
+| special-binary-string | Special Binary String | Hard | java | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.java) |
+| split-array-into-consecutive-subsequences | Split Array into Consecutive Subsequences | Medium | java | [Problem](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](./solutions/Medium/0659-split-array-into-consecutive-subsequences/solution.java) |
+| split-linked-list-in-parts | Split Linked List in Parts | Medium | java | [Problem](https://leetcode.com/problems/split-linked-list-in-parts/) | [Solution](./solutions/Medium/0725-split-linked-list-in-parts/solution.java) |
+| stickers-to-spell-word | Stickers to Spell Word | Hard | java | [Problem](https://leetcode.com/problems/stickers-to-spell-word/) | [Solution](./solutions/Hard/0691-stickers-to-spell-word/solution.java) |
+| strange-printer | Strange Printer | Hard | java | [Problem](https://leetcode.com/problems/strange-printer/) | [Solution](./solutions/Hard/0664-strange-printer/solution.java) |
 | student-attendance-record-i | Student Attendance Record I | Easy | cpp | [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution](./solutions/Easy/0551-student-attendance-record-i/solution.cpp) |
 | student-attendance-record-ii | Student Attendance Record II | Hard | java | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.java) |
+| subarray-product-less-than-k | Subarray Product Less Than K | Medium | java | [Problem](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./solutions/Medium/0713-subarray-product-less-than-k/solution.java) |
+| subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
+| sum-of-square-numbers | Sum of Square Numbers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.java) |
+| swap-sex-of-employees | Swap Sex of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
+| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
+| to-lower-case | To Lower Case | Easy | java | [Problem](https://leetcode.com/problems/to-lower-case/) | [Solution](./solutions/Easy/0709-to-lower-case/solution.java) |
+| top-k-frequent-words | Top K Frequent Words | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./solutions/Medium/0692-top-k-frequent-words/solution.java) |
+| tree-node | Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
+| triangle-judgement | Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
+| trim-a-binary-search-tree | Trim a Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution](./solutions/Medium/0669-trim-a-binary-search-tree/solution.java) |
 | two-sum | 1. Two Sum | Easy | c | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.c) |
 | sliding-window-maximum | 239. Sliding Window Maximum | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](./solutions/Hard/0239-sliding-window-maximum/solution.py) |
+| two-sum-iv-input-is-a-bst | Two Sum IV - Input is a BST | Easy | java | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.java) |
 | valid-anagram | 242. Valid Anagram | Easy | python3 | [Problem](https://leetcode.com/problems/valid-anagram/) | [Solution](./solutions/Easy/0242-valid-anagram/solution.py) |
 | trips-and-users | 262. Trips And Users | Hard | mysql | [Problem](https://leetcode.com/problems/trips-and-users/) | [Solution](./solutions/Hard/0262-trips-and-users/solution.sql) |
 | ugly-number | 263. Ugly Number | Easy | python3 | [Problem](https://leetcode.com/problems/ugly-number/) | [Solution](./solutions/Easy/0263-ugly-number/solution.py) |
@@ -212,6 +261,7 @@
 | max-sum-of-rectangle-no-larger-than-k | 363. Max Sum Of Rectangle No Larger Than K | Hard | python3 | [Problem](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Solution](./solutions/Hard/0363-max-sum-of-rectangle-no-larger-than-k/solution.py) |
 | valid-perfect-square | 367. Valid Perfect Square | Easy | python3 | [Problem](https://leetcode.com/problems/valid-perfect-square/) | [Solution](./solutions/Easy/0367-valid-perfect-square/solution.py) |
 | insert-delete-getrandom-o1-duplicates-allowed | 381. Insert Delete Getrandom O1 Duplicates Allowed | Hard | java | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.java) |
+| first-unique-character-in-a-string | 387. First Unique Character In A String | Easy | java | [Problem](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./solutions/Easy/0387-first-unique-character-in-a-string/solution.java) |
 | find-the-difference | 389. Find The Difference | Easy | java | [Problem](https://leetcode.com/problems/find-the-difference/) | [Solution](./solutions/Easy/0389-find-the-difference/solution.java) |
 | perfect-rectangle | 391. Perfect Rectangle | Hard | java | [Problem](https://leetcode.com/problems/perfect-rectangle/) | [Solution](./solutions/Hard/0391-perfect-rectangle/solution.java) |
 | utf-8-validation | 393. Utf 8 Validation | Medium | java | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.java) |
@@ -261,59 +311,10 @@
 | assign-cookies | 455. Assign Cookies | Easy | java | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.java) |
 | 132-pattern | 456. 132 Pattern | Medium | java | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.java) |
 | circular-array-loop | 457. Circular Array Loop | Medium | java | [Problem](https://leetcode.com/problems/circular-array-loop/) | [Solution](./solutions/Medium/0457-circular-array-loop/solution.java) |
-| open-the-lock | Open the Lock | Medium | java | [Problem](https://leetcode.com/problems/open-the-lock/) | [Solution](./solutions/Medium/0752-open-the-lock/solution.java) |
-| out-of-boundary-paths | Out of Boundary Paths | Medium | java | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.java) |
-| palindromic-substrings | Palindromic Substrings | Medium | java | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.java) |
-| parse-lisp-expression | Parse Lisp Expression | Hard | java | [Problem](https://leetcode.com/problems/parse-lisp-expression/) | [Solution](./solutions/Hard/0736-parse-lisp-expression/solution.java) |
-| partition-labels | Partition Labels | Medium | java | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.java) |
-| partition-to-k-equal-sum-subsets | Partition to K Equal Sum Subsets | Medium | java | [Problem](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution](./solutions/Medium/0698-partition-to-k-equal-sum-subsets/solution.java) |
-| permutation-in-string | Permutation in String | Medium | java | [Problem](https://leetcode.com/problems/permutation-in-string/) | [Solution](./solutions/Medium/0567-permutation-in-string/solution.java) |
 | poor-pigs | 458. Poor Pigs | Hard | java | [Problem](https://leetcode.com/problems/poor-pigs/) | [Solution](./solutions/Hard/0458-poor-pigs/solution.java) |
-| prime-number-of-set-bits-in-binary-representation | Prime Number of Set Bits in Binary Representation | Easy | java | [Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Solution](./solutions/Easy/0762-prime-number-of-set-bits-in-binary-representation/solution.java) |
-| print-binary-tree | Print Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/print-binary-tree/) | [Solution](./solutions/Medium/0655-print-binary-tree/solution.java) |
-| pyramid-transition-matrix | Pyramid Transition Matrix | Medium | java | [Problem](https://leetcode.com/problems/pyramid-transition-matrix/) | [Solution](./solutions/Medium/0756-pyramid-transition-matrix/solution.java) |
-| random-pick-with-blacklist | Random Pick with Blacklist | Hard | java | [Problem](https://leetcode.com/problems/random-pick-with-blacklist/) | [Solution](./solutions/Hard/0710-random-pick-with-blacklist/solution.java) |
-| range-addition-ii | Range Addition II | Easy | java | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.java) |
-| range-module | Range Module | Hard | java | [Problem](https://leetcode.com/problems/range-module/) | [Solution](./solutions/Hard/0715-range-module/solution.java) |
-| reach-a-number | Reach a Number | Medium | java | [Problem](https://leetcode.com/problems/reach-a-number/) | [Solution](./solutions/Medium/0754-reach-a-number/solution.java) |
-| redundant-connection | Redundant Connection | Medium | java | [Problem](https://leetcode.com/problems/redundant-connection/) | [Solution](./solutions/Medium/0684-redundant-connection/solution.java) |
-| redundant-connection-ii | Redundant Connection II | Hard | java | [Problem](https://leetcode.com/problems/redundant-connection-ii/) | [Solution](./solutions/Hard/0685-redundant-connection-ii/solution.java) |
-| remove-comments | Remove Comments | Medium | java | [Problem](https://leetcode.com/problems/remove-comments/) | [Solution](./solutions/Medium/0722-remove-comments/solution.java) |
-| removing-minimum-and-maximum-from-array | Removing Minimum and Maximum From Array | Medium | java | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.java) |
 | repeated-substring-pattern | 459. Repeated Substring Pattern | Easy | java | [Problem](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution](./solutions/Easy/0459-repeated-substring-pattern/solution.java) |
 | lfu-cache | 460. Lfu Cache | Hard | java | [Problem](https://leetcode.com/problems/lfu-cache/) | [Solution](./solutions/Hard/0460-lfu-cache/solution.java) |
 | random-pick-with-weight | 528. Random Pick With Weight | Medium | java | [Problem](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](./solutions/Medium/0528-random-pick-with-weight/solution.java) |
-| replace-words | Replace Words | Medium | java | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.java) |
-| reshape-the-matrix | Reshape the Matrix | Easy | java | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.java) |
-| reverse-words-in-a-string-iii | Reverse Words in a String III | Easy | java | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.java) |
-| robot-return-to-origin | Robot Return to Origin | Easy | java | [Problem](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](./solutions/Easy/0657-robot-return-to-origin/solution.java) |
-| sales-person | Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |
-| second-minimum-node-in-a-binary-tree | Second Minimum Node In a Binary Tree | Easy | java | [Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](./solutions/Easy/0671-second-minimum-node-in-a-binary-tree/solution.java) |
-| sentence-similarity | Sentence Similarity | Easy | java | [Problem](https://leetcode.com/problems/sentence-similarity/) | [Solution](./solutions/Easy/0734-sentence-similarity/solution.java) |
-| set-intersection-size-at-least-two | Set Intersection Size At Least Two | Hard | java | [Problem](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Solution](./solutions/Hard/0757-set-intersection-size-at-least-two/solution.java) |
-| set-mismatch | Set Mismatch | Easy | java | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.java) |
-| shopping-offers | Shopping Offers | Medium | java | [Problem](https://leetcode.com/problems/shopping-offers/) | [Solution](./solutions/Medium/0638-shopping-offers/solution.java) |
-| shortest-completing-word | Shortest Completing Word | Easy | java | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.java) |
-| shortest-unsorted-continuous-subarray | Shortest Unsorted Continuous Subarray | Medium | java | [Problem](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](./solutions/Medium/0581-shortest-unsorted-continuous-subarray/solution.java) |
-| smallest-missing-multiple-of-k | Smallest Missing Multiple of K | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Solution](./solutions/Easy/3718-smallest-missing-multiple-of-k/solution.py) |
-| smallest-range-covering-elements-from-k-lists | Smallest Range Covering Elements from K Lists | Hard | java | [Problem](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Solution](./solutions/Hard/0632-smallest-range-covering-elements-from-k-lists/solution.java) |
-| solve-the-equation | Solve the Equation | Medium | java | [Problem](https://leetcode.com/problems/solve-the-equation/) | [Solution](./solutions/Medium/0640-solve-the-equation/solution.java) |
-| special-binary-string | Special Binary String | Hard | java | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.java) |
-| split-array-into-consecutive-subsequences | Split Array into Consecutive Subsequences | Medium | java | [Problem](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](./solutions/Medium/0659-split-array-into-consecutive-subsequences/solution.java) |
-| split-linked-list-in-parts | Split Linked List in Parts | Medium | java | [Problem](https://leetcode.com/problems/split-linked-list-in-parts/) | [Solution](./solutions/Medium/0725-split-linked-list-in-parts/solution.java) |
-| stickers-to-spell-word | Stickers to Spell Word | Hard | java | [Problem](https://leetcode.com/problems/stickers-to-spell-word/) | [Solution](./solutions/Hard/0691-stickers-to-spell-word/solution.java) |
-| strange-printer | Strange Printer | Hard | java | [Problem](https://leetcode.com/problems/strange-printer/) | [Solution](./solutions/Hard/0664-strange-printer/solution.java) |
-| subarray-product-less-than-k | Subarray Product Less Than K | Medium | java | [Problem](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution](./solutions/Medium/0713-subarray-product-less-than-k/solution.java) |
-| subarray-sum-equals-k | Subarray Sum Equals K | Medium | java | [Problem](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./solutions/Medium/0560-subarray-sum-equals-k/solution.java) |
-| sum-of-square-numbers | Sum of Square Numbers | Medium | java | [Problem](https://leetcode.com/problems/sum-of-square-numbers/) | [Solution](./solutions/Medium/0633-sum-of-square-numbers/solution.java) |
-| swap-sex-of-employees | Swap Sex of Employees | Easy | mysql | [Problem](https://leetcode.com/problems/swap-sex-of-employees/) | [Solution](./solutions/Easy/0627-swap-sex-of-employees/solution.sql) |
-| task-scheduler | Task Scheduler | Medium | java | [Problem](https://leetcode.com/problems/task-scheduler/) | [Solution](./solutions/Medium/0621-task-scheduler/solution.java) |
-| to-lower-case | To Lower Case | Easy | java | [Problem](https://leetcode.com/problems/to-lower-case/) | [Solution](./solutions/Easy/0709-to-lower-case/solution.java) |
-| top-k-frequent-words | Top K Frequent Words | Medium | java | [Problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./solutions/Medium/0692-top-k-frequent-words/solution.java) |
-| tree-node | Tree Node | Medium | mysql | [Problem](https://leetcode.com/problems/tree-node/) | [Solution](./solutions/Medium/0608-tree-node/solution.sql) |
-| triangle-judgement | Triangle Judgement | Easy | mysql | [Problem](https://leetcode.com/problems/triangle-judgement/) | [Solution](./solutions/Easy/0610-triangle-judgement/solution.sql) |
-| trim-a-binary-search-tree | Trim a Binary Search Tree | Medium | java | [Problem](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution](./solutions/Medium/0669-trim-a-binary-search-tree/solution.java) |
-| two-sum-iv-input-is-a-bst | Two Sum IV - Input is a BST | Easy | java | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.java) |
 | valid-palindrome-ii | Valid Palindrome II | Easy | java | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.java) |
 | valid-parenthesis-string | Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
 | valid-square | Valid Square | Medium | java | [Problem](https://leetcode.com/problems/valid-square/) | [Solution](./solutions/Medium/0593-valid-square/solution.java) |
