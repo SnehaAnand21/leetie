@@ -4,7 +4,7 @@
 // Tags     : Array, Stack, Greedy, Sorting, Monotonic Stack
 // Link     : https://leetcode.com/problems/max-chunks-to-make-sorted/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 42732000 (beats 29%)
+// Memory   : 42848000 (beats 14%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
