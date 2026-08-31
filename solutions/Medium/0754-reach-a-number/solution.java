@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Binary Search
 // Link     : https://leetcode.com/problems/reach-a-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42144000 (beats 0%)
+// Runtime  : 2 ms (beats 71%)
+// Memory   : 41360000 (beats 100%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
