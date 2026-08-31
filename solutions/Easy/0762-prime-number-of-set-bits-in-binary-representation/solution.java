@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, Bit Manipulation, Primality Test
 // Link     : https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41868000 (beats 0%)
+// Runtime  : 64 ms (beats 8%)
+// Memory   : 42332000 (beats 43%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
