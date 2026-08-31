@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Dynamic Programming
 // Link     : https://leetcode.com/problems/rotated-digits/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41948000 (beats 0%)
+// Runtime  : 4 ms (beats 81%)
+// Memory   : 41840000 (beats 93%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
