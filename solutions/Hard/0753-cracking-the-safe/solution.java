@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : String, Depth-First Search, Graph Theory, Eulerian Circuit, Eulerian Path, Eulerian Graph
 // Link     : https://leetcode.com/problems/cracking-the-safe/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 42072000 (beats 0%)
+// Runtime  : 15 ms (beats 62%)
+// Memory   : 46964000 (beats 56%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
