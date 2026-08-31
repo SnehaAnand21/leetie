@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Backtracking, Bit Manipulation
 // Link     : https://leetcode.com/problems/letter-case-permutation/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42876000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 47464000 (beats 42%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
