@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/global-and-local-inversions/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42120000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 65188000 (beats 92%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
