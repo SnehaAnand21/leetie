@@ -4,7 +4,7 @@
 // Tags     : Array, Matrix
 // Link     : https://leetcode.com/problems/toeplitz-matrix/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 46648000 (beats 11%)
+// Memory   : 46520000 (beats 26%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
