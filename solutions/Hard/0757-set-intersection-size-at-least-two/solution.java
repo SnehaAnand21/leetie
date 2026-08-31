@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Greedy, Sorting
 // Link     : https://leetcode.com/problems/set-intersection-size-at-least-two/
-// Runtime  : 8 ms (beats 100%)
-// Memory   : 47564000 (beats 53%)
+// Runtime  : 10 ms (beats 49%)
+// Memory   : 47356000 (beats 83%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
