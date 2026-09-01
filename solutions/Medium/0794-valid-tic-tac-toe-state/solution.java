@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Matrix
 // Link     : https://leetcode.com/problems/valid-tic-tac-toe-state/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42744000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42712000 (beats 52%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
