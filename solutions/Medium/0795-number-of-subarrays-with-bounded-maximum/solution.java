@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers
 // Link     : https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42644000 (beats 0%)
+// Runtime  : 3 ms (beats 99%)
+// Memory   : 59608000 (beats 36%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
