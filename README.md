@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 335 Solved
+## Progress Summary: 336 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -35,6 +35,7 @@
 | couples-holding-hands | Couples Holding Hands | Hard | java | [Problem](https://leetcode.com/problems/couples-holding-hands/) | [Solution](./solutions/Hard/0765-couples-holding-hands/solution.java) |
 | course-schedule-iii | Course Schedule III | Hard | java | [Problem](https://leetcode.com/problems/course-schedule-iii/) | [Solution](./solutions/Hard/0630-course-schedule-iii/solution.java) |
 | cracking-the-safe | Cracking the Safe | Hard | java | [Problem](https://leetcode.com/problems/cracking-the-safe/) | [Solution](./solutions/Hard/0753-cracking-the-safe/solution.java) |
+| custom-sort-string | Custom Sort String | Medium | java | [Problem](https://leetcode.com/problems/custom-sort-string/) | [Solution](./solutions/Medium/0791-custom-sort-string/solution.java) |
 | customer-placing-the-largest-number-of-orders | Customer Placing the Largest Number of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | cut-off-trees-for-golf-event | Cut Off Trees for Golf Event | Hard | java | [Problem](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Solution](./solutions/Hard/0675-cut-off-trees-for-golf-event/solution.java) |
 | daily-temperatures | Daily Temperatures | Medium | java | [Problem](https://leetcode.com/problems/daily-temperatures/) | [Solution](./solutions/Medium/0739-daily-temperatures/solution.java) |
