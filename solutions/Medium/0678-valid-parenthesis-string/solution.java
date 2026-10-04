@@ -4,31 +4,25 @@
 // Tags     : String, Dynamic Programming, Stack, Greedy, Bracket Sequences
 // Link     : https://leetcode.com/problems/valid-parenthesis-string/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 42944000 (beats 19%)
+// Memory   : 42404000 (beats 92%)
 // Language : java
 // Copyright: (c) 2026 SnehaAnand21. All rights reserved.
 // Synced by: leetie
 // ──────────────────────────────────────────────────
 
-public class Solution {
+class Solution {
     public boolean checkValidString(String s) {
-        int leftMin = 0, leftMax = 0;
+        int l = 0, h = 0;
 
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                leftMin++;
-                leftMax++;
-            } else if (c == ')') {
-                leftMin--;
-                leftMax--;
-            } else {
-                leftMin--;
-                leftMax++;
-            }
-            if (leftMax < 0) return false;
-            if (leftMin < 0) leftMin = 0;
+        for (int i = 0; i < s.length(); i++) {
+            l += s.charAt(i) == '(' ? 1 : -1;
+            h += s.charAt(i) == ')' ? -1 : 1;
+
+            if (h < 0) return false;
+
+            l = Math.max(l, 0);
         }
-        
-        return leftMin == 0;
+
+        return l == 0;
     }
 }
